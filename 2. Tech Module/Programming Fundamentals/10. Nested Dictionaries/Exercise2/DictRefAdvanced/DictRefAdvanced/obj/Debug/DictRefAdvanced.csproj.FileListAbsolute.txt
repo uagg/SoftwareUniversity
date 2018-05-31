@@ -1,0 +1,6 @@
+D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise2\DictRefAdvanced\DictRefAdvanced\bin\Debug\DictRefAdvanced.exe.config
+D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise2\DictRefAdvanced\DictRefAdvanced\bin\Debug\DictRefAdvanced.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise2\DictRefAdvanced\DictRefAdvanced\bin\Debug\DictRefAdvanced.pdb
+D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise2\DictRefAdvanced\DictRefAdvanced\obj\Debug\DictRefAdvanced.csprojResolveAssemblyReference.cache
+D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise2\DictRefAdvanced\DictRefAdvanced\obj\Debug\DictRefAdvanced.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise2\DictRefAdvanced\DictRefAdvanced\obj\Debug\DictRefAdvanced.pdb

@@ -1,0 +1,5 @@
+D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise1\REFACTORED\SortArrUsingBubbleSort\SortArrUsingBubbleSort\bin\Debug\SortArrUsingBubbleSort.exe.config
+D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise1\REFACTORED\SortArrUsingBubbleSort\SortArrUsingBubbleSort\bin\Debug\SortArrUsingBubbleSort.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise1\REFACTORED\SortArrUsingBubbleSort\SortArrUsingBubbleSort\bin\Debug\SortArrUsingBubbleSort.pdb
+D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise1\REFACTORED\SortArrUsingBubbleSort\SortArrUsingBubbleSort\obj\Debug\SortArrUsingBubbleSort.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise1\REFACTORED\SortArrUsingBubbleSort\SortArrUsingBubbleSort\obj\Debug\SortArrUsingBubbleSort.pdb

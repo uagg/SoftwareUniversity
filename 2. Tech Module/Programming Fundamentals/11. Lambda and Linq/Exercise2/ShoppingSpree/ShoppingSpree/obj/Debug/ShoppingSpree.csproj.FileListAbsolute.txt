@@ -1,0 +1,7 @@
+D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise2\ShoppingSpree\ShoppingSpree\bin\Debug\ShoppingSpree.exe.config
+D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise2\ShoppingSpree\ShoppingSpree\bin\Debug\ShoppingSpree.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise2\ShoppingSpree\ShoppingSpree\bin\Debug\ShoppingSpree.pdb
+D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise2\ShoppingSpree\ShoppingSpree\obj\Debug\ShoppingSpree.csprojResolveAssemblyReference.cache
+D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise2\ShoppingSpree\ShoppingSpree\obj\Debug\ShoppingSpree.csproj.CoreCompileInputs.cache
+D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise2\ShoppingSpree\ShoppingSpree\obj\Debug\ShoppingSpree.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise2\ShoppingSpree\ShoppingSpree\obj\Debug\ShoppingSpree.pdb

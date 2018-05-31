@@ -1,0 +1,5 @@
+D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise1\REFACTORED\SmallestElementInArray\SmallestElementInArray\bin\Debug\SmallestElementInArray.exe.config
+D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise1\REFACTORED\SmallestElementInArray\SmallestElementInArray\bin\Debug\SmallestElementInArray.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise1\REFACTORED\SmallestElementInArray\SmallestElementInArray\bin\Debug\SmallestElementInArray.pdb
+D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise1\REFACTORED\SmallestElementInArray\SmallestElementInArray\obj\Debug\SmallestElementInArray.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise1\REFACTORED\SmallestElementInArray\SmallestElementInArray\obj\Debug\SmallestElementInArray.pdb

@@ -1,0 +1,6 @@
+D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise1\Largest3Numbers\Largest3Numbers\bin\Debug\Largest3Numbers.exe.config
+D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise1\Largest3Numbers\Largest3Numbers\bin\Debug\Largest3Numbers.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise1\Largest3Numbers\Largest3Numbers\bin\Debug\Largest3Numbers.pdb
+D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise1\Largest3Numbers\Largest3Numbers\obj\Debug\Largest3Numbers.csproj.CoreCompileInputs.cache
+D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise1\Largest3Numbers\Largest3Numbers\obj\Debug\Largest3Numbers.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise1\Largest3Numbers\Largest3Numbers\obj\Debug\Largest3Numbers.pdb

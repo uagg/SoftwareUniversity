@@ -1,0 +1,7 @@
+D:\Work\Exercise2\Boxes\Boxes\bin\Debug\Boxes.exe.config
+D:\Work\Exercise2\Boxes\Boxes\bin\Debug\Boxes.exe
+D:\Work\Exercise2\Boxes\Boxes\bin\Debug\Boxes.pdb
+D:\Work\Exercise2\Boxes\Boxes\obj\Debug\Boxes.csprojResolveAssemblyReference.cache
+D:\Work\Exercise2\Boxes\Boxes\obj\Debug\Boxes.csproj.CoreCompileInputs.cache
+D:\Work\Exercise2\Boxes\Boxes\obj\Debug\Boxes.exe
+D:\Work\Exercise2\Boxes\Boxes\obj\Debug\Boxes.pdb

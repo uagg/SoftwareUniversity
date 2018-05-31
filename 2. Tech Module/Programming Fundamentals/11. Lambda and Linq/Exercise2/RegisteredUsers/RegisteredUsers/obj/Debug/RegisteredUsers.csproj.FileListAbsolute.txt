@@ -1,0 +1,6 @@
+D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise2\RegisteredUsers\RegisteredUsers\obj\Debug\RegisteredUsers.csprojResolveAssemblyReference.cache
+D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise2\RegisteredUsers\RegisteredUsers\bin\Debug\RegisteredUsers.exe.config
+D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise2\RegisteredUsers\RegisteredUsers\bin\Debug\RegisteredUsers.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise2\RegisteredUsers\RegisteredUsers\bin\Debug\RegisteredUsers.pdb
+D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise2\RegisteredUsers\RegisteredUsers\obj\Debug\RegisteredUsers.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise2\RegisteredUsers\RegisteredUsers\obj\Debug\RegisteredUsers.pdb

@@ -1,0 +1,7 @@
+D:\Work\Exercise2\Animals\Animals\bin\Debug\Animals.exe.config
+D:\Work\Exercise2\Animals\Animals\bin\Debug\Animals.exe
+D:\Work\Exercise2\Animals\Animals\bin\Debug\Animals.pdb
+D:\Work\Exercise2\Animals\Animals\obj\Debug\Animals.csprojResolveAssemblyReference.cache
+D:\Work\Exercise2\Animals\Animals\obj\Debug\Animals.csproj.CoreCompileInputs.cache
+D:\Work\Exercise2\Animals\Animals\obj\Debug\Animals.exe
+D:\Work\Exercise2\Animals\Animals\obj\Debug\Animals.pdb

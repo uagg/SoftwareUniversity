@@ -1,0 +1,5 @@
+D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise1\REFACTORED\ReverseArrayIn-place\ReverseArrayIn-place\bin\Debug\ReverseArrayIn-place.exe.config
+D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise1\REFACTORED\ReverseArrayIn-place\ReverseArrayIn-place\bin\Debug\ReverseArrayIn-place.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise1\REFACTORED\ReverseArrayIn-place\ReverseArrayIn-place\bin\Debug\ReverseArrayIn-place.pdb
+D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise1\REFACTORED\ReverseArrayIn-place\ReverseArrayIn-place\obj\Debug\ReverseArrayIn-place.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise1\REFACTORED\ReverseArrayIn-place\ReverseArrayIn-place\obj\Debug\ReverseArrayIn-place.pdb

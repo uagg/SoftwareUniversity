@@ -1,0 +1,6 @@
+D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\RefactorVolumeOfPyramid\RefactorVolumeOfPyramid\bin\Debug\RefactorVolumeOfPyramid.exe.config
+D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\RefactorVolumeOfPyramid\RefactorVolumeOfPyramid\bin\Debug\RefactorVolumeOfPyramid.exe
+D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\RefactorVolumeOfPyramid\RefactorVolumeOfPyramid\bin\Debug\RefactorVolumeOfPyramid.pdb
+D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\RefactorVolumeOfPyramid\RefactorVolumeOfPyramid\obj\Debug\RefactorVolumeOfPyramid.csprojResolveAssemblyReference.cache
+D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\RefactorVolumeOfPyramid\RefactorVolumeOfPyramid\obj\Debug\RefactorVolumeOfPyramid.exe
+D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\RefactorVolumeOfPyramid\RefactorVolumeOfPyramid\obj\Debug\RefactorVolumeOfPyramid.pdb

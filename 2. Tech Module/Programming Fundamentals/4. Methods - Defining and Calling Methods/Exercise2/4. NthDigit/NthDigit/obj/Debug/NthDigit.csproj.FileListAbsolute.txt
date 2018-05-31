@@ -1,0 +1,5 @@
+D:\Други\Материали от SoftUni\Programming Fundamentals\5. Methods - Exercises\NthDigit\NthDigit\bin\Debug\NthDigit.exe.config
+D:\Други\Материали от SoftUni\Programming Fundamentals\5. Methods - Exercises\NthDigit\NthDigit\bin\Debug\NthDigit.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\5. Methods - Exercises\NthDigit\NthDigit\bin\Debug\NthDigit.pdb
+D:\Други\Материали от SoftUni\Programming Fundamentals\5. Methods - Exercises\NthDigit\NthDigit\obj\Debug\NthDigit.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\5. Methods - Exercises\NthDigit\NthDigit\obj\Debug\NthDigit.pdb

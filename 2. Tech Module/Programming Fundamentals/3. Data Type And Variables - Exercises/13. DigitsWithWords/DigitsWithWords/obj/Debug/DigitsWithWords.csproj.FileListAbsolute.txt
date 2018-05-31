@@ -1,0 +1,5 @@
+D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\DigitsWithWords\DigitsWithWords\bin\Debug\DigitsWithWords.exe.config
+D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\DigitsWithWords\DigitsWithWords\bin\Debug\DigitsWithWords.exe
+D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\DigitsWithWords\DigitsWithWords\bin\Debug\DigitsWithWords.pdb
+D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\DigitsWithWords\DigitsWithWords\obj\Debug\DigitsWithWords.exe
+D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\DigitsWithWords\DigitsWithWords\obj\Debug\DigitsWithWords.pdb

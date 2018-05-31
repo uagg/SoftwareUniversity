@@ -1,0 +1,7 @@
+D:\Други\Материали от SoftUni\Programming Fundamentals\12. Objects and Simple Classes\Exercise1\RectanglePosition\RectanglePosition\bin\Debug\RectanglePosition.exe.config
+D:\Други\Материали от SoftUni\Programming Fundamentals\12. Objects and Simple Classes\Exercise1\RectanglePosition\RectanglePosition\bin\Debug\RectanglePosition.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\12. Objects and Simple Classes\Exercise1\RectanglePosition\RectanglePosition\bin\Debug\RectanglePosition.pdb
+D:\Други\Материали от SoftUni\Programming Fundamentals\12. Objects and Simple Classes\Exercise1\RectanglePosition\RectanglePosition\obj\Debug\RectanglePosition.csprojResolveAssemblyReference.cache
+D:\Други\Материали от SoftUni\Programming Fundamentals\12. Objects and Simple Classes\Exercise1\RectanglePosition\RectanglePosition\obj\Debug\RectanglePosition.csproj.CoreCompileInputs.cache
+D:\Други\Материали от SoftUni\Programming Fundamentals\12. Objects and Simple Classes\Exercise1\RectanglePosition\RectanglePosition\obj\Debug\RectanglePosition.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\12. Objects and Simple Classes\Exercise1\RectanglePosition\RectanglePosition\obj\Debug\RectanglePosition.pdb

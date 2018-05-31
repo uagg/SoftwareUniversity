@@ -1,0 +1,7 @@
+D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise1\SumMinMaxAverage\SumMinMaxAverage\bin\Debug\SumMinMaxAverage.exe.config
+D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise1\SumMinMaxAverage\SumMinMaxAverage\bin\Debug\SumMinMaxAverage.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise1\SumMinMaxAverage\SumMinMaxAverage\bin\Debug\SumMinMaxAverage.pdb
+D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise1\SumMinMaxAverage\SumMinMaxAverage\obj\Debug\SumMinMaxAverage.csprojResolveAssemblyReference.cache
+D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise1\SumMinMaxAverage\SumMinMaxAverage\obj\Debug\SumMinMaxAverage.csproj.CoreCompileInputs.cache
+D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise1\SumMinMaxAverage\SumMinMaxAverage\obj\Debug\SumMinMaxAverage.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise1\SumMinMaxAverage\SumMinMaxAverage\obj\Debug\SumMinMaxAverage.pdb

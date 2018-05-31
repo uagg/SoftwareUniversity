@@ -1,0 +1,5 @@
+D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\ExchangeVariableValues\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
+D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\ExchangeVariableValues\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe
+D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\ExchangeVariableValues\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.pdb
+D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\ExchangeVariableValues\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
+D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\ExchangeVariableValues\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb

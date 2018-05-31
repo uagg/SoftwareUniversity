@@ -1,0 +1,5 @@
+D:\Други\Материали от SoftUni\Programming Fundamentals\8. Arrays - simple array processing\Exercise2\CountOfOddNumbers\CountOfOddNumbers\bin\Debug\CountOfOddNumbers.exe.config
+D:\Други\Материали от SoftUni\Programming Fundamentals\8. Arrays - simple array processing\Exercise2\CountOfOddNumbers\CountOfOddNumbers\bin\Debug\CountOfOddNumbers.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\8. Arrays - simple array processing\Exercise2\CountOfOddNumbers\CountOfOddNumbers\bin\Debug\CountOfOddNumbers.pdb
+D:\Други\Материали от SoftUni\Programming Fundamentals\8. Arrays - simple array processing\Exercise2\CountOfOddNumbers\CountOfOddNumbers\obj\Debug\CountOfOddNumbers.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\8. Arrays - simple array processing\Exercise2\CountOfOddNumbers\CountOfOddNumbers\obj\Debug\CountOfOddNumbers.pdb

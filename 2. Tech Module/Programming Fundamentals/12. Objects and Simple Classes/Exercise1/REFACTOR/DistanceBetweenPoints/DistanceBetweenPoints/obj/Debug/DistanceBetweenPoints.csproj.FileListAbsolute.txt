@@ -1,0 +1,7 @@
+D:\Други\Материали от SoftUni\Programming Fundamentals\12. Objects and Simple Classes\Exercise1\REFACTOR\DistanceBetweenPoints\DistanceBetweenPoints\bin\Debug\DistanceBetweenPoints.exe.config
+D:\Други\Материали от SoftUni\Programming Fundamentals\12. Objects and Simple Classes\Exercise1\REFACTOR\DistanceBetweenPoints\DistanceBetweenPoints\bin\Debug\DistanceBetweenPoints.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\12. Objects and Simple Classes\Exercise1\REFACTOR\DistanceBetweenPoints\DistanceBetweenPoints\bin\Debug\DistanceBetweenPoints.pdb
+D:\Други\Материали от SoftUni\Programming Fundamentals\12. Objects and Simple Classes\Exercise1\REFACTOR\DistanceBetweenPoints\DistanceBetweenPoints\obj\Debug\DistanceBetweenPoints.csprojResolveAssemblyReference.cache
+D:\Други\Материали от SoftUni\Programming Fundamentals\12. Objects and Simple Classes\Exercise1\REFACTOR\DistanceBetweenPoints\DistanceBetweenPoints\obj\Debug\DistanceBetweenPoints.csproj.CoreCompileInputs.cache
+D:\Други\Материали от SoftUni\Programming Fundamentals\12. Objects and Simple Classes\Exercise1\REFACTOR\DistanceBetweenPoints\DistanceBetweenPoints\obj\Debug\DistanceBetweenPoints.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\12. Objects and Simple Classes\Exercise1\REFACTOR\DistanceBetweenPoints\DistanceBetweenPoints\obj\Debug\DistanceBetweenPoints.pdb

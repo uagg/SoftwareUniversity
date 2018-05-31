@@ -1,0 +1,6 @@
+D:\Други\Материали от SoftUni\Programming Fundamentals\7. Lists - processing variable-length sequences\Exercise1\SumAdjacentEqualNum\SumAdjacentEqualNum\bin\Debug\SumAdjacentEqualNum.exe.config
+D:\Други\Материали от SoftUni\Programming Fundamentals\7. Lists - processing variable-length sequences\Exercise1\SumAdjacentEqualNum\SumAdjacentEqualNum\bin\Debug\SumAdjacentEqualNum.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\7. Lists - processing variable-length sequences\Exercise1\SumAdjacentEqualNum\SumAdjacentEqualNum\bin\Debug\SumAdjacentEqualNum.pdb
+D:\Други\Материали от SoftUni\Programming Fundamentals\7. Lists - processing variable-length sequences\Exercise1\SumAdjacentEqualNum\SumAdjacentEqualNum\obj\Debug\SumAdjacentEqualNum.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\7. Lists - processing variable-length sequences\Exercise1\SumAdjacentEqualNum\SumAdjacentEqualNum\obj\Debug\SumAdjacentEqualNum.pdb
+D:\Други\Материали от SoftUni\Programming Fundamentals\7. Lists - processing variable-length sequences\Exercise1\SumAdjacentEqualNum\SumAdjacentEqualNum\obj\Debug\SumAdjacentEqualNum.csprojResolveAssemblyReference.cache

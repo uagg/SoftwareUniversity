@@ -1,0 +1,7 @@
+D:\Други\Материали от SoftUni\Programming Fundamentals\12. Objects and Simple Classes\Exercise1\DayOfWeek\DayOfWeek\bin\Debug\DayOfWeek.exe.config
+D:\Други\Материали от SoftUni\Programming Fundamentals\12. Objects and Simple Classes\Exercise1\DayOfWeek\DayOfWeek\bin\Debug\DayOfWeek.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\12. Objects and Simple Classes\Exercise1\DayOfWeek\DayOfWeek\bin\Debug\DayOfWeek.pdb
+D:\Други\Материали от SoftUni\Programming Fundamentals\12. Objects and Simple Classes\Exercise1\DayOfWeek\DayOfWeek\obj\Debug\DayOfWeek.csprojResolveAssemblyReference.cache
+D:\Други\Материали от SoftUni\Programming Fundamentals\12. Objects and Simple Classes\Exercise1\DayOfWeek\DayOfWeek\obj\Debug\DayOfWeek.csproj.CoreCompileInputs.cache
+D:\Други\Материали от SoftUni\Programming Fundamentals\12. Objects and Simple Classes\Exercise1\DayOfWeek\DayOfWeek\obj\Debug\DayOfWeek.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\12. Objects and Simple Classes\Exercise1\DayOfWeek\DayOfWeek\obj\Debug\DayOfWeek.pdb

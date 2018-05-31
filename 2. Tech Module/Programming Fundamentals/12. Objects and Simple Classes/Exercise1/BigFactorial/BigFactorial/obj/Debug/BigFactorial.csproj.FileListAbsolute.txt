@@ -1,0 +1,7 @@
+D:\Други\Материали от SoftUni\Programming Fundamentals\12. Objects and Simple Classes\Exercise1\BigFactorial\BigFactorial\bin\Debug\BigFactorial.exe.config
+D:\Други\Материали от SoftUni\Programming Fundamentals\12. Objects and Simple Classes\Exercise1\BigFactorial\BigFactorial\bin\Debug\BigFactorial.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\12. Objects and Simple Classes\Exercise1\BigFactorial\BigFactorial\bin\Debug\BigFactorial.pdb
+D:\Други\Материали от SoftUni\Programming Fundamentals\12. Objects and Simple Classes\Exercise1\BigFactorial\BigFactorial\obj\Debug\BigFactorial.csprojResolveAssemblyReference.cache
+D:\Други\Материали от SoftUni\Programming Fundamentals\12. Objects and Simple Classes\Exercise1\BigFactorial\BigFactorial\obj\Debug\BigFactorial.csproj.CoreCompileInputs.cache
+D:\Други\Материали от SoftUni\Programming Fundamentals\12. Objects and Simple Classes\Exercise1\BigFactorial\BigFactorial\obj\Debug\BigFactorial.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\12. Objects and Simple Classes\Exercise1\BigFactorial\BigFactorial\obj\Debug\BigFactorial.pdb

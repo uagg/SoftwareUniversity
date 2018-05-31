@@ -1,0 +1,5 @@
+D:\Други\Материали от SoftUni\Programming Fundamentals\9. Dictionaries\Exercise2\LetterRepetition\LetterRepetition\bin\Debug\LetterRepetition.exe.config
+D:\Други\Материали от SoftUni\Programming Fundamentals\9. Dictionaries\Exercise2\LetterRepetition\LetterRepetition\bin\Debug\LetterRepetition.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\9. Dictionaries\Exercise2\LetterRepetition\LetterRepetition\bin\Debug\LetterRepetition.pdb
+D:\Други\Материали от SoftUni\Programming Fundamentals\9. Dictionaries\Exercise2\LetterRepetition\LetterRepetition\obj\Debug\LetterRepetition.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\9. Dictionaries\Exercise2\LetterRepetition\LetterRepetition\obj\Debug\LetterRepetition.pdb

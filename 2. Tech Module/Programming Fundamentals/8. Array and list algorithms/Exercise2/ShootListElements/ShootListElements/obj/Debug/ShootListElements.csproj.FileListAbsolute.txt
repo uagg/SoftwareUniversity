@@ -1,0 +1,6 @@
+D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise1\ShootListElements\ShootListElements\bin\Debug\ShootListElements.exe.config
+D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise1\ShootListElements\ShootListElements\bin\Debug\ShootListElements.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise1\ShootListElements\ShootListElements\bin\Debug\ShootListElements.pdb
+D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise1\ShootListElements\ShootListElements\obj\Debug\ShootListElements.csprojResolveAssemblyReference.cache
+D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise1\ShootListElements\ShootListElements\obj\Debug\ShootListElements.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise1\ShootListElements\ShootListElements\obj\Debug\ShootListElements.pdb

@@ -1,0 +1,6 @@
+D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise2\ForumTopics\ForumTopics\bin\Debug\ForumTopics.exe.config
+D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise2\ForumTopics\ForumTopics\bin\Debug\ForumTopics.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise2\ForumTopics\ForumTopics\bin\Debug\ForumTopics.pdb
+D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise2\ForumTopics\ForumTopics\obj\Debug\ForumTopics.csprojResolveAssemblyReference.cache
+D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise2\ForumTopics\ForumTopics\obj\Debug\ForumTopics.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise2\ForumTopics\ForumTopics\obj\Debug\ForumTopics.pdb

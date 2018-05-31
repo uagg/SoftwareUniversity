@@ -1,0 +1,5 @@
+D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise1\CitiesByContinentAndCountry\CitiesByContinentAndCountry\bin\Debug\CitiesByContinentAndCountry.exe.config
+D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise1\CitiesByContinentAndCountry\CitiesByContinentAndCountry\bin\Debug\CitiesByContinentAndCountry.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise1\CitiesByContinentAndCountry\CitiesByContinentAndCountry\bin\Debug\CitiesByContinentAndCountry.pdb
+D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise1\CitiesByContinentAndCountry\CitiesByContinentAndCountry\obj\Debug\CitiesByContinentAndCountry.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise1\CitiesByContinentAndCountry\CitiesByContinentAndCountry\obj\Debug\CitiesByContinentAndCountry.pdb

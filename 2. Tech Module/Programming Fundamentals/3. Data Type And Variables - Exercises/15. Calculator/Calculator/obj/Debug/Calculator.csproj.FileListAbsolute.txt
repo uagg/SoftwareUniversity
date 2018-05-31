@@ -1,0 +1,5 @@
+D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\Calculator\Calculator\obj\Debug\Calculator.pdb

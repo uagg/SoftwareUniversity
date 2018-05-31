@@ -1,0 +1,5 @@
+D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\TrickyStrings\TrickyStrings\bin\Debug\TrickyStrings.exe.config
+D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\TrickyStrings\TrickyStrings\bin\Debug\TrickyStrings.exe
+D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\TrickyStrings\TrickyStrings\bin\Debug\TrickyStrings.pdb
+D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\TrickyStrings\TrickyStrings\obj\Debug\TrickyStrings.exe
+D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\TrickyStrings\TrickyStrings\obj\Debug\TrickyStrings.pdb
