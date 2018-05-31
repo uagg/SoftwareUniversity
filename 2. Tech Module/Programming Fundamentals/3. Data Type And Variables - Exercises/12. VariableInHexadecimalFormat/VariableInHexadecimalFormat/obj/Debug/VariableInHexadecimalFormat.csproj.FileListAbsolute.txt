@@ -1,6 +1,0 @@
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\VariableInHexadecimalFormat\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe.config
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\VariableInHexadecimalFormat\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\VariableInHexadecimalFormat\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.pdb
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\VariableInHexadecimalFormat\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.csprojResolveAssemblyReference.cache
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\VariableInHexadecimalFormat\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.exe
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\VariableInHexadecimalFormat\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.pdb

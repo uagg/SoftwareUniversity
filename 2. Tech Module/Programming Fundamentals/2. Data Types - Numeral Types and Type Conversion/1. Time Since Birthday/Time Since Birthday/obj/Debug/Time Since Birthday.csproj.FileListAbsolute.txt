@@ -1,6 +1,0 @@
-D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\Time Since Birthday\Time Since Birthday\bin\Debug\Time Since Birthday.exe.config
-D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\Time Since Birthday\Time Since Birthday\bin\Debug\Time Since Birthday.exe
-D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\Time Since Birthday\Time Since Birthday\bin\Debug\Time Since Birthday.pdb
-D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\Time Since Birthday\Time Since Birthday\obj\Debug\Time Since Birthday.csprojResolveAssemblyReference.cache
-D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\Time Since Birthday\Time Since Birthday\obj\Debug\Time Since Birthday.exe
-D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\Time Since Birthday\Time Since Birthday\obj\Debug\Time Since Birthday.pdb

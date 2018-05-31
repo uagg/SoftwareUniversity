@@ -1,5 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\4. Methods - Defining and Calling Methods\DrawAFilledSquare\DrawAFilledSquare\bin\Debug\DrawAFilledSquare.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\4. Methods - Defining and Calling Methods\DrawAFilledSquare\DrawAFilledSquare\bin\Debug\DrawAFilledSquare.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\4. Methods - Defining and Calling Methods\DrawAFilledSquare\DrawAFilledSquare\bin\Debug\DrawAFilledSquare.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\4. Methods - Defining and Calling Methods\DrawAFilledSquare\DrawAFilledSquare\obj\Debug\DrawAFilledSquare.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\4. Methods - Defining and Calling Methods\DrawAFilledSquare\DrawAFilledSquare\obj\Debug\DrawAFilledSquare.pdb

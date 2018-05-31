@@ -1,5 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Arrays - simple array processing\ArraySymmetry\ArraySymmetry\bin\Debug\ArraySymmetry.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Arrays - simple array processing\ArraySymmetry\ArraySymmetry\bin\Debug\ArraySymmetry.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Arrays - simple array processing\ArraySymmetry\ArraySymmetry\bin\Debug\ArraySymmetry.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Arrays - simple array processing\ArraySymmetry\ArraySymmetry\obj\Debug\ArraySymmetry.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Arrays - simple array processing\ArraySymmetry\ArraySymmetry\obj\Debug\ArraySymmetry.pdb

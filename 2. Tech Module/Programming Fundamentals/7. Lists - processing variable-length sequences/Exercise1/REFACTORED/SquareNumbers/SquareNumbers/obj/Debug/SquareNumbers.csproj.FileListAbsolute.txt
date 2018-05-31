@@ -1,5 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\7. Lists - processing variable-length sequences\Exercise1\REFACTORED\SquareNumbers\SquareNumbers\bin\Debug\SquareNumbers.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\7. Lists - processing variable-length sequences\Exercise1\REFACTORED\SquareNumbers\SquareNumbers\bin\Debug\SquareNumbers.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\7. Lists - processing variable-length sequences\Exercise1\REFACTORED\SquareNumbers\SquareNumbers\bin\Debug\SquareNumbers.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\7. Lists - processing variable-length sequences\Exercise1\REFACTORED\SquareNumbers\SquareNumbers\obj\Debug\SquareNumbers.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\7. Lists - processing variable-length sequences\Exercise1\REFACTORED\SquareNumbers\SquareNumbers\obj\Debug\SquareNumbers.pdb

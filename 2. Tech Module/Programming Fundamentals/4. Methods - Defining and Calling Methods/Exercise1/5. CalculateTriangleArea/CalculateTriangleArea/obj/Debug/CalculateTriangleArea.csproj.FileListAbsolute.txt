@@ -1,5 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\4. Methods - Defining and Calling Methods\CalculateTriangleArea\CalculateTriangleArea\bin\Debug\CalculateTriangleArea.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\4. Methods - Defining and Calling Methods\CalculateTriangleArea\CalculateTriangleArea\bin\Debug\CalculateTriangleArea.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\4. Methods - Defining and Calling Methods\CalculateTriangleArea\CalculateTriangleArea\bin\Debug\CalculateTriangleArea.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\4. Methods - Defining and Calling Methods\CalculateTriangleArea\CalculateTriangleArea\obj\Debug\CalculateTriangleArea.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\4. Methods - Defining and Calling Methods\CalculateTriangleArea\CalculateTriangleArea\obj\Debug\CalculateTriangleArea.pdb

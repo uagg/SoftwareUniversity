@@ -1,5 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\5. Methods - Exercises\IntegerToBase\IntegerToBase\bin\Debug\IntegerToBase.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\5. Methods - Exercises\IntegerToBase\IntegerToBase\bin\Debug\IntegerToBase.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\5. Methods - Exercises\IntegerToBase\IntegerToBase\bin\Debug\IntegerToBase.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\5. Methods - Exercises\IntegerToBase\IntegerToBase\obj\Debug\IntegerToBase.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\5. Methods - Exercises\IntegerToBase\IntegerToBase\obj\Debug\IntegerToBase.pdb

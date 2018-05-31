@@ -1,6 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise2\AverageCharacterDelimiter\AverageCharacterDelimiter\bin\Debug\AverageCharacterDelimiter.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise2\AverageCharacterDelimiter\AverageCharacterDelimiter\bin\Debug\AverageCharacterDelimiter.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise2\AverageCharacterDelimiter\AverageCharacterDelimiter\bin\Debug\AverageCharacterDelimiter.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise2\AverageCharacterDelimiter\AverageCharacterDelimiter\obj\Debug\AverageCharacterDelimiter.csprojResolveAssemblyReference.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise2\AverageCharacterDelimiter\AverageCharacterDelimiter\obj\Debug\AverageCharacterDelimiter.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise2\AverageCharacterDelimiter\AverageCharacterDelimiter\obj\Debug\AverageCharacterDelimiter.pdb

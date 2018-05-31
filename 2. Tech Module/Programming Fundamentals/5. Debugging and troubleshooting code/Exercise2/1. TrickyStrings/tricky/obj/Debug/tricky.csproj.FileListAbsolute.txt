@@ -1,5 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\7. Debugging - Exercises\tricky\tricky\bin\Debug\tricky.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\7. Debugging - Exercises\tricky\tricky\bin\Debug\tricky.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\7. Debugging - Exercises\tricky\tricky\bin\Debug\tricky.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\7. Debugging - Exercises\tricky\tricky\obj\Debug\tricky.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\7. Debugging - Exercises\tricky\tricky\obj\Debug\tricky.pdb

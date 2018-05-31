@@ -1,5 +1,0 @@
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\PracticeFloatingPointNumbers\PracticeFloatingPointNumbers\bin\Debug\PracticeFloatingPointNumbers.exe.config
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\PracticeFloatingPointNumbers\PracticeFloatingPointNumbers\bin\Debug\PracticeFloatingPointNumbers.exe
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\PracticeFloatingPointNumbers\PracticeFloatingPointNumbers\bin\Debug\PracticeFloatingPointNumbers.pdb
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\PracticeFloatingPointNumbers\PracticeFloatingPointNumbers\obj\Debug\PracticeFloatingPointNumbers.exe
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\PracticeFloatingPointNumbers\PracticeFloatingPointNumbers\obj\Debug\PracticeFloatingPointNumbers.pdb

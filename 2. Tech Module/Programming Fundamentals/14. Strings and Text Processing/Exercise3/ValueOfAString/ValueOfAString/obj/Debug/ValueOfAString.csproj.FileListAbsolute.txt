@@ -1,7 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise3\ValueOfAString\ValueOfAString\bin\Debug\ValueOfAString.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise3\ValueOfAString\ValueOfAString\bin\Debug\ValueOfAString.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise3\ValueOfAString\ValueOfAString\bin\Debug\ValueOfAString.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise3\ValueOfAString\ValueOfAString\obj\Debug\ValueOfAString.csprojResolveAssemblyReference.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise3\ValueOfAString\ValueOfAString\obj\Debug\ValueOfAString.csproj.CoreCompileInputs.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise3\ValueOfAString\ValueOfAString\obj\Debug\ValueOfAString.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise3\ValueOfAString\ValueOfAString\obj\Debug\ValueOfAString.pdb

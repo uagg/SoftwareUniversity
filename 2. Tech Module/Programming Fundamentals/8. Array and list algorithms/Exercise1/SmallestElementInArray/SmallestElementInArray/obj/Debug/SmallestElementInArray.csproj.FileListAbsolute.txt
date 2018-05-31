@@ -1,5 +1,0 @@
-c:\users\uagg\documents\visual studio 2017\Projects\SmallestElementInArray\SmallestElementInArray\bin\Debug\SmallestElementInArray.exe.config
-c:\users\uagg\documents\visual studio 2017\Projects\SmallestElementInArray\SmallestElementInArray\bin\Debug\SmallestElementInArray.exe
-c:\users\uagg\documents\visual studio 2017\Projects\SmallestElementInArray\SmallestElementInArray\bin\Debug\SmallestElementInArray.pdb
-c:\users\uagg\documents\visual studio 2017\Projects\SmallestElementInArray\SmallestElementInArray\obj\Debug\SmallestElementInArray.exe
-c:\users\uagg\documents\visual studio 2017\Projects\SmallestElementInArray\SmallestElementInArray\obj\Debug\SmallestElementInArray.pdb

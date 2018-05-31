@@ -1,7 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\15. RegEx\Exercise1\MatchPhoneNumber\MatchPhoneNumber\bin\Debug\MatchPhoneNumber.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\15. RegEx\Exercise1\MatchPhoneNumber\MatchPhoneNumber\bin\Debug\MatchPhoneNumber.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\15. RegEx\Exercise1\MatchPhoneNumber\MatchPhoneNumber\bin\Debug\MatchPhoneNumber.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\15. RegEx\Exercise1\MatchPhoneNumber\MatchPhoneNumber\obj\Debug\MatchPhoneNumber.csproj.CoreCompileInputs.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\15. RegEx\Exercise1\MatchPhoneNumber\MatchPhoneNumber\obj\Debug\MatchPhoneNumber.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\15. RegEx\Exercise1\MatchPhoneNumber\MatchPhoneNumber\obj\Debug\MatchPhoneNumber.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\15. RegEx\Exercise1\MatchPhoneNumber\MatchPhoneNumber\obj\Debug\MatchPhoneNumber.csprojResolveAssemblyReference.cache

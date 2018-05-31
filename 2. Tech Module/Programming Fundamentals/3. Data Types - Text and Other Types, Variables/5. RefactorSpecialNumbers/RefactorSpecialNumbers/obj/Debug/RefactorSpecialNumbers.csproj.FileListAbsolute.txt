@@ -1,5 +1,0 @@
-D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\RefactorSpecialNumbers\RefactorSpecialNumbers\bin\Debug\RefactorSpecialNumbers.exe.config
-D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\RefactorSpecialNumbers\RefactorSpecialNumbers\bin\Debug\RefactorSpecialNumbers.exe
-D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\RefactorSpecialNumbers\RefactorSpecialNumbers\bin\Debug\RefactorSpecialNumbers.pdb
-D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\RefactorSpecialNumbers\RefactorSpecialNumbers\obj\Debug\RefactorSpecialNumbers.exe
-D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\RefactorSpecialNumbers\RefactorSpecialNumbers\obj\Debug\RefactorSpecialNumbers.pdb

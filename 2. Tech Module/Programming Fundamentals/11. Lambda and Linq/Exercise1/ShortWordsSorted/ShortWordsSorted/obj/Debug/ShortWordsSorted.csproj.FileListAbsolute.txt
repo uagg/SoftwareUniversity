@@ -1,6 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise1\ShortWordsSorted\ShortWordsSorted\bin\Debug\ShortWordsSorted.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise1\ShortWordsSorted\ShortWordsSorted\bin\Debug\ShortWordsSorted.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise1\ShortWordsSorted\ShortWordsSorted\bin\Debug\ShortWordsSorted.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise1\ShortWordsSorted\ShortWordsSorted\obj\Debug\ShortWordsSorted.csproj.CoreCompileInputs.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise1\ShortWordsSorted\ShortWordsSorted\obj\Debug\ShortWordsSorted.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise1\ShortWordsSorted\ShortWordsSorted\obj\Debug\ShortWordsSorted.pdb

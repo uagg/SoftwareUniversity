@@ -1,5 +1,0 @@
-c:\users\uagg\documents\visual studio 2017\Projects\SortArrayUsingInsertionSort\SortArrayUsingInsertionSort\bin\Debug\SortArrayUsingInsertionSort.exe.config
-c:\users\uagg\documents\visual studio 2017\Projects\SortArrayUsingInsertionSort\SortArrayUsingInsertionSort\bin\Debug\SortArrayUsingInsertionSort.exe
-c:\users\uagg\documents\visual studio 2017\Projects\SortArrayUsingInsertionSort\SortArrayUsingInsertionSort\bin\Debug\SortArrayUsingInsertionSort.pdb
-c:\users\uagg\documents\visual studio 2017\Projects\SortArrayUsingInsertionSort\SortArrayUsingInsertionSort\obj\Debug\SortArrayUsingInsertionSort.exe
-c:\users\uagg\documents\visual studio 2017\Projects\SortArrayUsingInsertionSort\SortArrayUsingInsertionSort\obj\Debug\SortArrayUsingInsertionSort.pdb

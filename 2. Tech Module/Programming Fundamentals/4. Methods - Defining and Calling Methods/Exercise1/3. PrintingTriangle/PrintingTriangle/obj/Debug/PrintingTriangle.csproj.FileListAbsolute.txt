@@ -1,5 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\4. Methods - Defining and Calling Methods\PrintingTriangle\PrintingTriangle\bin\Debug\PrintingTriangle.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\4. Methods - Defining and Calling Methods\PrintingTriangle\PrintingTriangle\bin\Debug\PrintingTriangle.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\4. Methods - Defining and Calling Methods\PrintingTriangle\PrintingTriangle\bin\Debug\PrintingTriangle.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\4. Methods - Defining and Calling Methods\PrintingTriangle\PrintingTriangle\obj\Debug\PrintingTriangle.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\4. Methods - Defining and Calling Methods\PrintingTriangle\PrintingTriangle\obj\Debug\PrintingTriangle.pdb

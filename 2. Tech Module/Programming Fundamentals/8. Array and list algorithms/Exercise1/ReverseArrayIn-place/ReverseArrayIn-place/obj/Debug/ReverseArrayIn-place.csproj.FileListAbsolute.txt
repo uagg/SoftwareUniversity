@@ -1,5 +1,0 @@
-c:\users\uagg\documents\visual studio 2017\Projects\ReverseArrayIn-place\ReverseArrayIn-place\bin\Debug\ReverseArrayIn-place.exe.config
-c:\users\uagg\documents\visual studio 2017\Projects\ReverseArrayIn-place\ReverseArrayIn-place\bin\Debug\ReverseArrayIn-place.exe
-c:\users\uagg\documents\visual studio 2017\Projects\ReverseArrayIn-place\ReverseArrayIn-place\bin\Debug\ReverseArrayIn-place.pdb
-c:\users\uagg\documents\visual studio 2017\Projects\ReverseArrayIn-place\ReverseArrayIn-place\obj\Debug\ReverseArrayIn-place.exe
-c:\users\uagg\documents\visual studio 2017\Projects\ReverseArrayIn-place\ReverseArrayIn-place\obj\Debug\ReverseArrayIn-place.pdb

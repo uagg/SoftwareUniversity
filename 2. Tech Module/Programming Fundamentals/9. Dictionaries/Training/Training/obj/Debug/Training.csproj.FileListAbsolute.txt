@@ -1,6 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\9. Dictionaries\Training\Training\bin\Debug\Training.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\9. Dictionaries\Training\Training\bin\Debug\Training.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\9. Dictionaries\Training\Training\bin\Debug\Training.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\9. Dictionaries\Training\Training\obj\Debug\Training.csprojResolveAssemblyReference.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\9. Dictionaries\Training\Training\obj\Debug\Training.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\9. Dictionaries\Training\Training\obj\Debug\Training.pdb

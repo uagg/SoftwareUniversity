@@ -1,6 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise3\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise3\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise3\BinarySearch\BinarySearch\bin\Debug\BinarySearch.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise3\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csprojResolveAssemblyReference.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise3\BinarySearch\BinarySearch\obj\Debug\BinarySearch.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise3\BinarySearch\BinarySearch\obj\Debug\BinarySearch.pdb

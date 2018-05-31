@@ -1,7 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise2\DefaultValues\DefaultValues\bin\Debug\DefaultValues.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise2\DefaultValues\DefaultValues\bin\Debug\DefaultValues.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise2\DefaultValues\DefaultValues\bin\Debug\DefaultValues.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise2\DefaultValues\DefaultValues\obj\Debug\DefaultValues.csprojResolveAssemblyReference.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise2\DefaultValues\DefaultValues\obj\Debug\DefaultValues.csproj.CoreCompileInputs.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise2\DefaultValues\DefaultValues\obj\Debug\DefaultValues.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise2\DefaultValues\DefaultValues\obj\Debug\DefaultValues.pdb

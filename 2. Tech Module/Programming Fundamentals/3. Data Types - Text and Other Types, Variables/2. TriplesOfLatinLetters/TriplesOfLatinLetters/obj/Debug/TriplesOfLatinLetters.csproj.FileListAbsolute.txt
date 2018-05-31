@@ -1,5 +1,0 @@
-D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\TriplesOfLatinLetters\TriplesOfLatinLetters\bin\Debug\TriplesOfLatinLetters.exe.config
-D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\TriplesOfLatinLetters\TriplesOfLatinLetters\bin\Debug\TriplesOfLatinLetters.exe
-D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\TriplesOfLatinLetters\TriplesOfLatinLetters\bin\Debug\TriplesOfLatinLetters.pdb
-D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\TriplesOfLatinLetters\TriplesOfLatinLetters\obj\Debug\TriplesOfLatinLetters.exe
-D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\TriplesOfLatinLetters\TriplesOfLatinLetters\obj\Debug\TriplesOfLatinLetters.pdb

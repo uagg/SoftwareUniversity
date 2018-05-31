@@ -1,7 +1,0 @@
-D:\Work\JSONParse\JSONParse\bin\Debug\JSONParse.exe.config
-D:\Work\JSONParse\JSONParse\bin\Debug\JSONParse.exe
-D:\Work\JSONParse\JSONParse\bin\Debug\JSONParse.pdb
-D:\Work\JSONParse\JSONParse\obj\Debug\JSONParse.csprojResolveAssemblyReference.cache
-D:\Work\JSONParse\JSONParse\obj\Debug\JSONParse.csproj.CoreCompileInputs.cache
-D:\Work\JSONParse\JSONParse\obj\Debug\JSONParse.exe
-D:\Work\JSONParse\JSONParse\obj\Debug\JSONParse.pdb

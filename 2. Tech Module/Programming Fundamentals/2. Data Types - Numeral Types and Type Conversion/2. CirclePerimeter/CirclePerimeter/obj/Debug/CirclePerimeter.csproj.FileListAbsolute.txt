@@ -1,5 +1,0 @@
-D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\CirclePerimeter\CirclePerimeter\bin\Debug\CirclePerimeter.exe.config
-D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\CirclePerimeter\CirclePerimeter\bin\Debug\CirclePerimeter.exe
-D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\CirclePerimeter\CirclePerimeter\bin\Debug\CirclePerimeter.pdb
-D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\CirclePerimeter\CirclePerimeter\obj\Debug\CirclePerimeter.exe
-D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\CirclePerimeter\CirclePerimeter\obj\Debug\CirclePerimeter.pdb

@@ -1,6 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\Exam Preparation I\EnduranceRally\EnduranceRally\bin\Debug\EnduranceRally.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\Exam Preparation I\EnduranceRally\EnduranceRally\bin\Debug\EnduranceRally.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\Exam Preparation I\EnduranceRally\EnduranceRally\bin\Debug\EnduranceRally.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\Exam Preparation I\EnduranceRally\EnduranceRally\obj\Debug\EnduranceRally.csproj.CoreCompileInputs.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\Exam Preparation I\EnduranceRally\EnduranceRally\obj\Debug\EnduranceRally.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\Exam Preparation I\EnduranceRally\EnduranceRally\obj\Debug\EnduranceRally.pdb

@@ -1,6 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise2\REFACTORED\SortArrayOfStrings\SortArrayOfStrings\bin\Debug\SortArrayOfStrings.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise2\REFACTORED\SortArrayOfStrings\SortArrayOfStrings\bin\Debug\SortArrayOfStrings.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise2\REFACTORED\SortArrayOfStrings\SortArrayOfStrings\bin\Debug\SortArrayOfStrings.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise2\REFACTORED\SortArrayOfStrings\SortArrayOfStrings\obj\Debug\SortArrayOfStrings.csprojResolveAssemblyReference.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise2\REFACTORED\SortArrayOfStrings\SortArrayOfStrings\obj\Debug\SortArrayOfStrings.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise2\REFACTORED\SortArrayOfStrings\SortArrayOfStrings\obj\Debug\SortArrayOfStrings.pdb

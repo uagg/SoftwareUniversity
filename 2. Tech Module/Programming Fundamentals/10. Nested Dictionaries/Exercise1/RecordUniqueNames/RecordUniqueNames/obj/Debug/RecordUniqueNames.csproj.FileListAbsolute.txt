@@ -1,5 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise1\RecordUniqueNames\RecordUniqueNames\bin\Debug\RecordUniqueNames.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise1\RecordUniqueNames\RecordUniqueNames\bin\Debug\RecordUniqueNames.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise1\RecordUniqueNames\RecordUniqueNames\bin\Debug\RecordUniqueNames.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise1\RecordUniqueNames\RecordUniqueNames\obj\Debug\RecordUniqueNames.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise1\RecordUniqueNames\RecordUniqueNames\obj\Debug\RecordUniqueNames.pdb

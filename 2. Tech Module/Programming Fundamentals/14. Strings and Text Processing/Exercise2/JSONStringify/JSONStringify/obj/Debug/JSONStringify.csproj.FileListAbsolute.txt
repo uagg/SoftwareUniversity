@@ -1,7 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise2\JSONStringify\JSONStringify\bin\Debug\JSONStringify.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise2\JSONStringify\JSONStringify\bin\Debug\JSONStringify.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise2\JSONStringify\JSONStringify\bin\Debug\JSONStringify.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise2\JSONStringify\JSONStringify\obj\Debug\JSONStringify.csprojResolveAssemblyReference.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise2\JSONStringify\JSONStringify\obj\Debug\JSONStringify.csproj.CoreCompileInputs.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise2\JSONStringify\JSONStringify\obj\Debug\JSONStringify.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise2\JSONStringify\JSONStringify\obj\Debug\JSONStringify.pdb

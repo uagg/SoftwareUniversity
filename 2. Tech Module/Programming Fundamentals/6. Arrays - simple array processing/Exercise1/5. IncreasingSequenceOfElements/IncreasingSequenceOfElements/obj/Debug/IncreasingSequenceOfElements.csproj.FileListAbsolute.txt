@@ -1,5 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Arrays - simple array processing\IncreasingSequenceOfElements\IncreasingSequenceOfElements\bin\Debug\IncreasingSequenceOfElements.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Arrays - simple array processing\IncreasingSequenceOfElements\IncreasingSequenceOfElements\bin\Debug\IncreasingSequenceOfElements.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Arrays - simple array processing\IncreasingSequenceOfElements\IncreasingSequenceOfElements\bin\Debug\IncreasingSequenceOfElements.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Arrays - simple array processing\IncreasingSequenceOfElements\IncreasingSequenceOfElements\obj\Debug\IncreasingSequenceOfElements.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Arrays - simple array processing\IncreasingSequenceOfElements\IncreasingSequenceOfElements\obj\Debug\IncreasingSequenceOfElements.pdb

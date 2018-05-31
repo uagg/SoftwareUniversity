@@ -1,6 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise1\AverageStudentGrades\AverageStudentGrades\bin\Debug\AverageStudentGrades.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise1\AverageStudentGrades\AverageStudentGrades\bin\Debug\AverageStudentGrades.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise1\AverageStudentGrades\AverageStudentGrades\bin\Debug\AverageStudentGrades.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise1\AverageStudentGrades\AverageStudentGrades\obj\Debug\AverageStudentGrades.csprojResolveAssemblyReference.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise1\AverageStudentGrades\AverageStudentGrades\obj\Debug\AverageStudentGrades.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise1\AverageStudentGrades\AverageStudentGrades\obj\Debug\AverageStudentGrades.pdb

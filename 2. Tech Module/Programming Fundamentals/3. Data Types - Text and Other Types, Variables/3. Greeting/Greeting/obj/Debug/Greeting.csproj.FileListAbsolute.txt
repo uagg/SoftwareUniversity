@@ -1,5 +1,0 @@
-D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\Greeting\Greeting\bin\Debug\Greeting.exe.config
-D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\Greeting\Greeting\bin\Debug\Greeting.exe
-D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\Greeting\Greeting\bin\Debug\Greeting.pdb
-D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\Greeting\Greeting\obj\Debug\Greeting.exe
-D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\Greeting\Greeting\obj\Debug\Greeting.pdb

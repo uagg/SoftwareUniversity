@@ -1,5 +1,0 @@
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\TravelingAtLightSpeed\TravelingAtLightSpeed\bin\Debug\TravelingAtLightSpeed.exe.config
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\TravelingAtLightSpeed\TravelingAtLightSpeed\bin\Debug\TravelingAtLightSpeed.exe
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\TravelingAtLightSpeed\TravelingAtLightSpeed\bin\Debug\TravelingAtLightSpeed.pdb
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\TravelingAtLightSpeed\TravelingAtLightSpeed\obj\Debug\TravelingAtLightSpeed.exe
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\TravelingAtLightSpeed\TravelingAtLightSpeed\obj\Debug\TravelingAtLightSpeed.pdb

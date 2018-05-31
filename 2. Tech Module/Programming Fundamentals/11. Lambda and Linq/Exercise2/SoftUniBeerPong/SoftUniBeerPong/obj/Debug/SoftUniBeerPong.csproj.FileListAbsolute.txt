@@ -1,7 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise2\SoftUniBeerPong\SoftUniBeerPong\bin\Debug\SoftUniBeerPong.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise2\SoftUniBeerPong\SoftUniBeerPong\bin\Debug\SoftUniBeerPong.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise2\SoftUniBeerPong\SoftUniBeerPong\bin\Debug\SoftUniBeerPong.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise2\SoftUniBeerPong\SoftUniBeerPong\obj\Debug\SoftUniBeerPong.csprojResolveAssemblyReference.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise2\SoftUniBeerPong\SoftUniBeerPong\obj\Debug\SoftUniBeerPong.csproj.CoreCompileInputs.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise2\SoftUniBeerPong\SoftUniBeerPong\obj\Debug\SoftUniBeerPong.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise2\SoftUniBeerPong\SoftUniBeerPong\obj\Debug\SoftUniBeerPong.pdb

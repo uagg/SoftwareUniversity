@@ -1,5 +1,0 @@
-c:\users\uagg\documents\visual studio 2017\Projects\DecodeRadioFrequencies\DecodeRadioFrequencies\bin\Debug\DecodeRadioFrequencies.exe.config
-c:\users\uagg\documents\visual studio 2017\Projects\DecodeRadioFrequencies\DecodeRadioFrequencies\bin\Debug\DecodeRadioFrequencies.exe
-c:\users\uagg\documents\visual studio 2017\Projects\DecodeRadioFrequencies\DecodeRadioFrequencies\bin\Debug\DecodeRadioFrequencies.pdb
-c:\users\uagg\documents\visual studio 2017\Projects\DecodeRadioFrequencies\DecodeRadioFrequencies\obj\Debug\DecodeRadioFrequencies.exe
-c:\users\uagg\documents\visual studio 2017\Projects\DecodeRadioFrequencies\DecodeRadioFrequencies\obj\Debug\DecodeRadioFrequencies.pdb

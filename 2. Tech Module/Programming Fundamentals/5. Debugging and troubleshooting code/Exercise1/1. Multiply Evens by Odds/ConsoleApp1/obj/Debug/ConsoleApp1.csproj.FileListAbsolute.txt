@@ -1,6 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\6. Debugging and troubleshooting code\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\6. Debugging and troubleshooting code\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\6. Debugging and troubleshooting code\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\6. Debugging and troubleshooting code\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\6. Debugging and troubleshooting code\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\6. Debugging and troubleshooting code\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -1,5 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\7. Debugging - Exercises\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\7. Debugging - Exercises\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\7. Debugging - Exercises\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\7. Debugging - Exercises\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\7. Debugging - Exercises\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

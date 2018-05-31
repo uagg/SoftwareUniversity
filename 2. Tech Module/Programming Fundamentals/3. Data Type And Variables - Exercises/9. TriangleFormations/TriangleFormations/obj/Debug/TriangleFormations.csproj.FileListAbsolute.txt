@@ -1,6 +1,0 @@
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\TriangleFormations\TriangleFormations\obj\Debug\TriangleFormations.csprojResolveAssemblyReference.cache
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\TriangleFormations\TriangleFormations\bin\Debug\TriangleFormations.exe.config
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\TriangleFormations\TriangleFormations\bin\Debug\TriangleFormations.exe
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\TriangleFormations\TriangleFormations\bin\Debug\TriangleFormations.pdb
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\TriangleFormations\TriangleFormations\obj\Debug\TriangleFormations.exe
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\TriangleFormations\TriangleFormations\obj\Debug\TriangleFormations.pdb

@@ -1,6 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\4. Methods - Defining and Calling Methods\BlankReceipt\BlankReceipt\bin\Debug\BlankReceipt.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\4. Methods - Defining and Calling Methods\BlankReceipt\BlankReceipt\bin\Debug\BlankReceipt.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\4. Methods - Defining and Calling Methods\BlankReceipt\BlankReceipt\bin\Debug\BlankReceipt.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\4. Methods - Defining and Calling Methods\BlankReceipt\BlankReceipt\obj\Debug\BlankReceipt.csprojResolveAssemblyReference.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\4. Methods - Defining and Calling Methods\BlankReceipt\BlankReceipt\obj\Debug\BlankReceipt.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\4. Methods - Defining and Calling Methods\BlankReceipt\BlankReceipt\obj\Debug\BlankReceipt.pdb

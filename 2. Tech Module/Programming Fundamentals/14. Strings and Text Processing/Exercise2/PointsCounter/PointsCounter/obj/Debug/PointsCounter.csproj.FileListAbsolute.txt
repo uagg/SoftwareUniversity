@@ -1,7 +1,0 @@
-D:\Work\PointsCounter\PointsCounter\bin\Debug\PointsCounter.exe.config
-D:\Work\PointsCounter\PointsCounter\bin\Debug\PointsCounter.exe
-D:\Work\PointsCounter\PointsCounter\bin\Debug\PointsCounter.pdb
-D:\Work\PointsCounter\PointsCounter\obj\Debug\PointsCounter.csprojResolveAssemblyReference.cache
-D:\Work\PointsCounter\PointsCounter\obj\Debug\PointsCounter.csproj.CoreCompileInputs.cache
-D:\Work\PointsCounter\PointsCounter\obj\Debug\PointsCounter.exe
-D:\Work\PointsCounter\PointsCounter\obj\Debug\PointsCounter.pdb

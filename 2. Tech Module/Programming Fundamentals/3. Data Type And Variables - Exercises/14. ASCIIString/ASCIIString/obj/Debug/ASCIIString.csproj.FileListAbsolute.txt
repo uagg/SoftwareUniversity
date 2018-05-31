@@ -1,6 +1,0 @@
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\ASCIIString\ASCIIString\bin\Debug\ASCIIString.exe.config
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\ASCIIString\ASCIIString\bin\Debug\ASCIIString.exe
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\ASCIIString\ASCIIString\bin\Debug\ASCIIString.pdb
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\ASCIIString\ASCIIString\obj\Debug\ASCIIString.csprojResolveAssemblyReference.cache
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\ASCIIString\ASCIIString\obj\Debug\ASCIIString.exe
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\ASCIIString\ASCIIString\obj\Debug\ASCIIString.pdb

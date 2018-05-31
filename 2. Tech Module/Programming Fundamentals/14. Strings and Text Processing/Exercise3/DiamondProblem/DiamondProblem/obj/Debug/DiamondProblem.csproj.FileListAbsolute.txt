@@ -1,6 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise3\DiamondProblem\DiamondProblem\bin\Debug\DiamondProblem.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise3\DiamondProblem\DiamondProblem\bin\Debug\DiamondProblem.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise3\DiamondProblem\DiamondProblem\bin\Debug\DiamondProblem.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise3\DiamondProblem\DiamondProblem\obj\Debug\DiamondProblem.csproj.CoreCompileInputs.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise3\DiamondProblem\DiamondProblem\obj\Debug\DiamondProblem.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise3\DiamondProblem\DiamondProblem\obj\Debug\DiamondProblem.pdb

@@ -1,6 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise2\KeyKeyValueValue\KeyKeyValueValue\bin\Debug\KeyKeyValueValue.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise2\KeyKeyValueValue\KeyKeyValueValue\bin\Debug\KeyKeyValueValue.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise2\KeyKeyValueValue\KeyKeyValueValue\bin\Debug\KeyKeyValueValue.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise2\KeyKeyValueValue\KeyKeyValueValue\obj\Debug\KeyKeyValueValue.csprojResolveAssemblyReference.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise2\KeyKeyValueValue\KeyKeyValueValue\obj\Debug\KeyKeyValueValue.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise2\KeyKeyValueValue\KeyKeyValueValue\obj\Debug\KeyKeyValueValue.pdb

@@ -1,6 +1,0 @@
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\DistanceOfTheStars\DistanceOfTheStars\bin\Debug\DistanceOfTheStars.exe.config
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\DistanceOfTheStars\DistanceOfTheStars\bin\Debug\DistanceOfTheStars.exe
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\DistanceOfTheStars\DistanceOfTheStars\bin\Debug\DistanceOfTheStars.pdb
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\DistanceOfTheStars\DistanceOfTheStars\obj\Debug\DistanceOfTheStars.csprojResolveAssemblyReference.cache
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\DistanceOfTheStars\DistanceOfTheStars\obj\Debug\DistanceOfTheStars.exe
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\DistanceOfTheStars\DistanceOfTheStars\obj\Debug\DistanceOfTheStars.pdb

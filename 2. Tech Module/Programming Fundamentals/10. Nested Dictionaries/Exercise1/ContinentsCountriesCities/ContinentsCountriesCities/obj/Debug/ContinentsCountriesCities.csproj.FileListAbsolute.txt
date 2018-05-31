@@ -1,5 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise1\ContinentsCountriesCities\ContinentsCountriesCities\bin\Debug\ContinentsCountriesCities.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise1\ContinentsCountriesCities\ContinentsCountriesCities\bin\Debug\ContinentsCountriesCities.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise1\ContinentsCountriesCities\ContinentsCountriesCities\bin\Debug\ContinentsCountriesCities.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise1\ContinentsCountriesCities\ContinentsCountriesCities\obj\Debug\ContinentsCountriesCities.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise1\ContinentsCountriesCities\ContinentsCountriesCities\obj\Debug\ContinentsCountriesCities.pdb

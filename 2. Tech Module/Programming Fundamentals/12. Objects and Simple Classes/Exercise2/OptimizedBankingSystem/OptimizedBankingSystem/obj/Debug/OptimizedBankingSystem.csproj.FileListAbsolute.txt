@@ -1,6 +1,0 @@
-D:\Work\Exercise2\OptimizedBankingSystem\OptimizedBankingSystem\bin\Debug\OptimizedBankingSystem.exe.config
-D:\Work\Exercise2\OptimizedBankingSystem\OptimizedBankingSystem\bin\Debug\OptimizedBankingSystem.exe
-D:\Work\Exercise2\OptimizedBankingSystem\OptimizedBankingSystem\bin\Debug\OptimizedBankingSystem.pdb
-D:\Work\Exercise2\OptimizedBankingSystem\OptimizedBankingSystem\obj\Debug\OptimizedBankingSystem.csproj.CoreCompileInputs.cache
-D:\Work\Exercise2\OptimizedBankingSystem\OptimizedBankingSystem\obj\Debug\OptimizedBankingSystem.exe
-D:\Work\Exercise2\OptimizedBankingSystem\OptimizedBankingSystem\obj\Debug\OptimizedBankingSystem.pdb

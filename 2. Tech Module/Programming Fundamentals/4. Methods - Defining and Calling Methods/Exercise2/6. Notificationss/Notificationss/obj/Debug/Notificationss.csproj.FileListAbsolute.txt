@@ -1,6 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\5. Methods - Exercises\Notificationss\Notificationss\obj\Debug\Notificationss.csprojResolveAssemblyReference.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\5. Methods - Exercises\Notificationss\Notificationss\bin\Debug\Notificationss.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\5. Methods - Exercises\Notificationss\Notificationss\bin\Debug\Notificationss.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\5. Methods - Exercises\Notificationss\Notificationss\bin\Debug\Notificationss.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\5. Methods - Exercises\Notificationss\Notificationss\obj\Debug\Notificationss.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\5. Methods - Exercises\Notificationss\Notificationss\obj\Debug\Notificationss.pdb

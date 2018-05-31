@@ -1,5 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\7. Lists - processing variable-length sequences\Exercise1\Append Lists\Append Lists\bin\Debug\Append Lists.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\7. Lists - processing variable-length sequences\Exercise1\Append Lists\Append Lists\bin\Debug\Append Lists.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\7. Lists - processing variable-length sequences\Exercise1\Append Lists\Append Lists\bin\Debug\Append Lists.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\7. Lists - processing variable-length sequences\Exercise1\Append Lists\Append Lists\obj\Debug\Append Lists.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\7. Lists - processing variable-length sequences\Exercise1\Append Lists\Append Lists\obj\Debug\Append Lists.pdb

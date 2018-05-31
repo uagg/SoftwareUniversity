@@ -1,5 +1,0 @@
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\PracticeCharactersAndStrings\PracticeCharactersAndStrings\bin\Debug\PracticeCharactersAndStrings.exe.config
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\PracticeCharactersAndStrings\PracticeCharactersAndStrings\bin\Debug\PracticeCharactersAndStrings.exe
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\PracticeCharactersAndStrings\PracticeCharactersAndStrings\bin\Debug\PracticeCharactersAndStrings.pdb
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\PracticeCharactersAndStrings\PracticeCharactersAndStrings\obj\Debug\PracticeCharactersAndStrings.exe
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\PracticeCharactersAndStrings\PracticeCharactersAndStrings\obj\Debug\PracticeCharactersAndStrings.pdb

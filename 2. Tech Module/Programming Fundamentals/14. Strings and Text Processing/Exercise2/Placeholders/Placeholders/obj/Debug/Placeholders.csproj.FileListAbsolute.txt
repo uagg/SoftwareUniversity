@@ -1,7 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise2\Placeholders\Placeholders\bin\Debug\Placeholders.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise2\Placeholders\Placeholders\bin\Debug\Placeholders.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise2\Placeholders\Placeholders\bin\Debug\Placeholders.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise2\Placeholders\Placeholders\obj\Debug\Placeholders.csprojResolveAssemblyReference.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise2\Placeholders\Placeholders\obj\Debug\Placeholders.csproj.CoreCompileInputs.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise2\Placeholders\Placeholders\obj\Debug\Placeholders.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise2\Placeholders\Placeholders\obj\Debug\Placeholders.pdb

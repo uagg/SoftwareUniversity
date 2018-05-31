@@ -1,5 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\7. Lists - processing variable-length sequences\Exercise3\REFACTORED\CamelSBack\CamelSBack\bin\Debug\CamelSBack.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\7. Lists - processing variable-length sequences\Exercise3\REFACTORED\CamelSBack\CamelSBack\bin\Debug\CamelSBack.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\7. Lists - processing variable-length sequences\Exercise3\REFACTORED\CamelSBack\CamelSBack\bin\Debug\CamelSBack.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\7. Lists - processing variable-length sequences\Exercise3\REFACTORED\CamelSBack\CamelSBack\obj\Debug\CamelSBack.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\7. Lists - processing variable-length sequences\Exercise3\REFACTORED\CamelSBack\CamelSBack\obj\Debug\CamelSBack.pdb

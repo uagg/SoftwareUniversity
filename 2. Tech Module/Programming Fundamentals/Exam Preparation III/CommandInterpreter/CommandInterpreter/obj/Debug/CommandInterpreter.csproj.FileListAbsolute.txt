@@ -1,7 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\Exam Preparation III\CommandInterpreter\CommandInterpreter\bin\Debug\CommandInterpreter.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\Exam Preparation III\CommandInterpreter\CommandInterpreter\bin\Debug\CommandInterpreter.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\Exam Preparation III\CommandInterpreter\CommandInterpreter\bin\Debug\CommandInterpreter.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\Exam Preparation III\CommandInterpreter\CommandInterpreter\obj\Debug\CommandInterpreter.csprojResolveAssemblyReference.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\Exam Preparation III\CommandInterpreter\CommandInterpreter\obj\Debug\CommandInterpreter.csproj.CoreCompileInputs.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\Exam Preparation III\CommandInterpreter\CommandInterpreter\obj\Debug\CommandInterpreter.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\Exam Preparation III\CommandInterpreter\CommandInterpreter\obj\Debug\CommandInterpreter.pdb

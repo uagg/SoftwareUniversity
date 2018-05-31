@@ -1,7 +1,0 @@
-D:\Work\Exercise2\Websites\Websites\bin\Debug\Websites.exe.config
-D:\Work\Exercise2\Websites\Websites\bin\Debug\Websites.exe
-D:\Work\Exercise2\Websites\Websites\bin\Debug\Websites.pdb
-D:\Work\Exercise2\Websites\Websites\obj\Debug\Websites.csprojResolveAssemblyReference.cache
-D:\Work\Exercise2\Websites\Websites\obj\Debug\Websites.csproj.CoreCompileInputs.cache
-D:\Work\Exercise2\Websites\Websites\obj\Debug\Websites.exe
-D:\Work\Exercise2\Websites\Websites\obj\Debug\Websites.pdb

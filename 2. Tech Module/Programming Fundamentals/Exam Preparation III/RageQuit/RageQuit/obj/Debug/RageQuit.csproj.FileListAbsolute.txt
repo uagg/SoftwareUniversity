@@ -1,7 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\Exam Preparation III\RageQuit\RageQuit\obj\Debug\RageQuit.csprojResolveAssemblyReference.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\Exam Preparation III\RageQuit\RageQuit\obj\Debug\RageQuit.csproj.CoreCompileInputs.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\Exam Preparation III\RageQuit\RageQuit\bin\Debug\RageQuit.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\Exam Preparation III\RageQuit\RageQuit\bin\Debug\RageQuit.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\Exam Preparation III\RageQuit\RageQuit\bin\Debug\RageQuit.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\Exam Preparation III\RageQuit\RageQuit\obj\Debug\RageQuit.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\Exam Preparation III\RageQuit\RageQuit\obj\Debug\RageQuit.pdb

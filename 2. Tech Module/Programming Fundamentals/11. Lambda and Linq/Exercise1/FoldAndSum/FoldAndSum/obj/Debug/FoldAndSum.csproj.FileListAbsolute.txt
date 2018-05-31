@@ -1,7 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise1\FoldAndSum\FoldAndSum\bin\Debug\FoldAndSum.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise1\FoldAndSum\FoldAndSum\bin\Debug\FoldAndSum.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise1\FoldAndSum\FoldAndSum\bin\Debug\FoldAndSum.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise1\FoldAndSum\FoldAndSum\obj\Debug\FoldAndSum.csproj.CoreCompileInputs.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise1\FoldAndSum\FoldAndSum\obj\Debug\FoldAndSum.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise1\FoldAndSum\FoldAndSum\obj\Debug\FoldAndSum.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise1\FoldAndSum\FoldAndSum\obj\Debug\FoldAndSum.csprojResolveAssemblyReference.cache

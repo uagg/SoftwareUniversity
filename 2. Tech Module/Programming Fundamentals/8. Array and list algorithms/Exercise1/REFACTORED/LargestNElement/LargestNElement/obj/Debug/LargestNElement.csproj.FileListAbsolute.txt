@@ -1,5 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise1\REFACTORED\LargestNElement\LargestNElement\bin\Debug\LargestNElement.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise1\REFACTORED\LargestNElement\LargestNElement\bin\Debug\LargestNElement.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise1\REFACTORED\LargestNElement\LargestNElement\bin\Debug\LargestNElement.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise1\REFACTORED\LargestNElement\LargestNElement\obj\Debug\LargestNElement.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise1\REFACTORED\LargestNElement\LargestNElement\obj\Debug\LargestNElement.pdb

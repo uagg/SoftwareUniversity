@@ -1,5 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\6. Debugging and troubleshooting code\ElementsEqualToTheirIndex\ElementsEqualToTheirIndex\bin\Debug\ElementsEqualToTheirIndex.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\6. Debugging and troubleshooting code\ElementsEqualToTheirIndex\ElementsEqualToTheirIndex\bin\Debug\ElementsEqualToTheirIndex.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\6. Debugging and troubleshooting code\ElementsEqualToTheirIndex\ElementsEqualToTheirIndex\bin\Debug\ElementsEqualToTheirIndex.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\6. Debugging and troubleshooting code\ElementsEqualToTheirIndex\ElementsEqualToTheirIndex\obj\Debug\ElementsEqualToTheirIndex.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\6. Debugging and troubleshooting code\ElementsEqualToTheirIndex\ElementsEqualToTheirIndex\obj\Debug\ElementsEqualToTheirIndex.pdb

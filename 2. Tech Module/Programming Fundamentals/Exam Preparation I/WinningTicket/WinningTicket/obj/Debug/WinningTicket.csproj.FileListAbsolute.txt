@@ -1,7 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\Exam Preparation I\WinningTicket\WinningTicket\bin\Debug\WinningTicket.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\Exam Preparation I\WinningTicket\WinningTicket\bin\Debug\WinningTicket.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\Exam Preparation I\WinningTicket\WinningTicket\bin\Debug\WinningTicket.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\Exam Preparation I\WinningTicket\WinningTicket\obj\Debug\WinningTicket.csprojResolveAssemblyReference.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\Exam Preparation I\WinningTicket\WinningTicket\obj\Debug\WinningTicket.csproj.CoreCompileInputs.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\Exam Preparation I\WinningTicket\WinningTicket\obj\Debug\WinningTicket.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\Exam Preparation I\WinningTicket\WinningTicket\obj\Debug\WinningTicket.pdb

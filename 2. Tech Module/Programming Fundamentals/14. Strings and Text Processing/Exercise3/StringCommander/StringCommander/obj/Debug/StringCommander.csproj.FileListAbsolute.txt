@@ -1,7 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise3\StringCommander\StringCommander\bin\Debug\StringCommander.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise3\StringCommander\StringCommander\bin\Debug\StringCommander.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise3\StringCommander\StringCommander\bin\Debug\StringCommander.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise3\StringCommander\StringCommander\obj\Debug\StringCommander.csprojResolveAssemblyReference.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise3\StringCommander\StringCommander\obj\Debug\StringCommander.csproj.CoreCompileInputs.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise3\StringCommander\StringCommander\obj\Debug\StringCommander.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise3\StringCommander\StringCommander\obj\Debug\StringCommander.pdb

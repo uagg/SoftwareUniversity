@@ -1,7 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\12. Objects and Simple Classes\Exercise1\SalesReport\SalesReport\bin\Debug\SalesReport.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\12. Objects and Simple Classes\Exercise1\SalesReport\SalesReport\bin\Debug\SalesReport.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\12. Objects and Simple Classes\Exercise1\SalesReport\SalesReport\bin\Debug\SalesReport.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\12. Objects and Simple Classes\Exercise1\SalesReport\SalesReport\obj\Debug\SalesReport.csprojResolveAssemblyReference.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\12. Objects and Simple Classes\Exercise1\SalesReport\SalesReport\obj\Debug\SalesReport.csproj.CoreCompileInputs.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\12. Objects and Simple Classes\Exercise1\SalesReport\SalesReport\obj\Debug\SalesReport.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\12. Objects and Simple Classes\Exercise1\SalesReport\SalesReport\obj\Debug\SalesReport.pdb

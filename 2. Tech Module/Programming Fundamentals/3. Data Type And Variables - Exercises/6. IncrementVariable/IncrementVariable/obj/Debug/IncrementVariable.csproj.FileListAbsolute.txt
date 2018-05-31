@@ -1,6 +1,0 @@
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\IncrementVariable\IncrementVariable\bin\Debug\IncrementVariable.exe.config
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\IncrementVariable\IncrementVariable\bin\Debug\IncrementVariable.exe
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\IncrementVariable\IncrementVariable\bin\Debug\IncrementVariable.pdb
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\IncrementVariable\IncrementVariable\obj\Debug\IncrementVariable.csprojResolveAssemblyReference.cache
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\IncrementVariable\IncrementVariable\obj\Debug\IncrementVariable.exe
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\IncrementVariable\IncrementVariable\obj\Debug\IncrementVariable.pdb

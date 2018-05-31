@@ -1,7 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise3\ArrayData\ArrayData\bin\Debug\ArrayData.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise3\ArrayData\ArrayData\bin\Debug\ArrayData.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise3\ArrayData\ArrayData\bin\Debug\ArrayData.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise3\ArrayData\ArrayData\obj\Debug\ArrayData.csprojResolveAssemblyReference.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise3\ArrayData\ArrayData\obj\Debug\ArrayData.csproj.CoreCompileInputs.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise3\ArrayData\ArrayData\obj\Debug\ArrayData.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise3\ArrayData\ArrayData\obj\Debug\ArrayData.pdb

@@ -1,6 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise2\SocialMediaPosts\SocialMediaPosts\bin\Debug\SocialMediaPosts.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise2\SocialMediaPosts\SocialMediaPosts\bin\Debug\SocialMediaPosts.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise2\SocialMediaPosts\SocialMediaPosts\bin\Debug\SocialMediaPosts.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise2\SocialMediaPosts\SocialMediaPosts\obj\Debug\SocialMediaPosts.csprojResolveAssemblyReference.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise2\SocialMediaPosts\SocialMediaPosts\obj\Debug\SocialMediaPosts.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise2\SocialMediaPosts\SocialMediaPosts\obj\Debug\SocialMediaPosts.pdb

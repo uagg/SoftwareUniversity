@@ -1,6 +1,0 @@
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\FloatOrInteger\FloatOrInteger\bin\Debug\FloatOrInteger.exe.config
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\FloatOrInteger\FloatOrInteger\bin\Debug\FloatOrInteger.exe
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\FloatOrInteger\FloatOrInteger\bin\Debug\FloatOrInteger.pdb
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\FloatOrInteger\FloatOrInteger\obj\Debug\FloatOrInteger.exe
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\FloatOrInteger\FloatOrInteger\obj\Debug\FloatOrInteger.pdb
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\FloatOrInteger\FloatOrInteger\obj\Debug\FloatOrInteger.csprojResolveAssemblyReference.cache

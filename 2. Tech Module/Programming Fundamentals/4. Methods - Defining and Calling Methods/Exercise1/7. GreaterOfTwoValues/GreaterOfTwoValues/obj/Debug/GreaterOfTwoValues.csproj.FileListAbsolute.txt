@@ -1,6 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\4. Methods - Defining and Calling Methods\GreaterOfTwoValues\GreaterOfTwoValues\obj\Debug\GreaterOfTwoValues.csprojResolveAssemblyReference.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\4. Methods - Defining and Calling Methods\GreaterOfTwoValues\GreaterOfTwoValues\bin\Debug\GreaterOfTwoValues.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\4. Methods - Defining and Calling Methods\GreaterOfTwoValues\GreaterOfTwoValues\bin\Debug\GreaterOfTwoValues.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\4. Methods - Defining and Calling Methods\GreaterOfTwoValues\GreaterOfTwoValues\bin\Debug\GreaterOfTwoValues.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\4. Methods - Defining and Calling Methods\GreaterOfTwoValues\GreaterOfTwoValues\obj\Debug\GreaterOfTwoValues.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\4. Methods - Defining and Calling Methods\GreaterOfTwoValues\GreaterOfTwoValues\obj\Debug\GreaterOfTwoValues.pdb

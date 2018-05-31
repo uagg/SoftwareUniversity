@@ -1,5 +1,0 @@
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\FromTerabytesToBits\FromTerabytesToBits\bin\Debug\FromTerabytesToBits.exe.config
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\FromTerabytesToBits\FromTerabytesToBits\bin\Debug\FromTerabytesToBits.exe
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\FromTerabytesToBits\FromTerabytesToBits\bin\Debug\FromTerabytesToBits.pdb
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\FromTerabytesToBits\FromTerabytesToBits\obj\Debug\FromTerabytesToBits.exe
-D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\FromTerabytesToBits\FromTerabytesToBits\obj\Debug\FromTerabytesToBits.pdb

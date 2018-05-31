@@ -1,5 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\7. Debugging - Exercises\TriangleFormations\TriangleFormations\bin\Debug\TriangleFormations.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\7. Debugging - Exercises\TriangleFormations\TriangleFormations\bin\Debug\TriangleFormations.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\7. Debugging - Exercises\TriangleFormations\TriangleFormations\bin\Debug\TriangleFormations.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\7. Debugging - Exercises\TriangleFormations\TriangleFormations\obj\Debug\TriangleFormations.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\7. Debugging - Exercises\TriangleFormations\TriangleFormations\obj\Debug\TriangleFormations.pdb

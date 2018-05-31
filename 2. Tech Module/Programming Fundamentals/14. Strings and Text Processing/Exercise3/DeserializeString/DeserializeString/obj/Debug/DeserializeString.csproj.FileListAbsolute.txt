@@ -1,7 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise3\DeserializeString\DeserializeString\bin\Debug\DeserializeString.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise3\DeserializeString\DeserializeString\bin\Debug\DeserializeString.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise3\DeserializeString\DeserializeString\bin\Debug\DeserializeString.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise3\DeserializeString\DeserializeString\obj\Debug\DeserializeString.csprojResolveAssemblyReference.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise3\DeserializeString\DeserializeString\obj\Debug\DeserializeString.csproj.CoreCompileInputs.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise3\DeserializeString\DeserializeString\obj\Debug\DeserializeString.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise3\DeserializeString\DeserializeString\obj\Debug\DeserializeString.pdb

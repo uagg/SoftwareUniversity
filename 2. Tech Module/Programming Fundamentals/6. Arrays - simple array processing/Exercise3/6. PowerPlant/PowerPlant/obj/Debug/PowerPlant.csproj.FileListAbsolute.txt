@@ -1,6 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\6. Arrays - simple array processing\Exercise3\PowerPlant\PowerPlant\obj\Debug\PowerPlant.csprojResolveAssemblyReference.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\6. Arrays - simple array processing\Exercise3\PowerPlant\PowerPlant\bin\Debug\PowerPlant.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\6. Arrays - simple array processing\Exercise3\PowerPlant\PowerPlant\bin\Debug\PowerPlant.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\6. Arrays - simple array processing\Exercise3\PowerPlant\PowerPlant\bin\Debug\PowerPlant.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\6. Arrays - simple array processing\Exercise3\PowerPlant\PowerPlant\obj\Debug\PowerPlant.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\6. Arrays - simple array processing\Exercise3\PowerPlant\PowerPlant\obj\Debug\PowerPlant.pdb

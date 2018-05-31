@@ -1,6 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise2\ArrayHistogram\ArrayHistogram\bin\Debug\ArrayHistogram.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise2\ArrayHistogram\ArrayHistogram\bin\Debug\ArrayHistogram.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise2\ArrayHistogram\ArrayHistogram\bin\Debug\ArrayHistogram.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise2\ArrayHistogram\ArrayHistogram\obj\Debug\ArrayHistogram.csprojResolveAssemblyReference.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise2\ArrayHistogram\ArrayHistogram\obj\Debug\ArrayHistogram.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise2\ArrayHistogram\ArrayHistogram\obj\Debug\ArrayHistogram.pdb

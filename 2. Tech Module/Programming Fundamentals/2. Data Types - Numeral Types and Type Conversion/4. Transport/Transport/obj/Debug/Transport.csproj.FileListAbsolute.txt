@@ -1,5 +1,0 @@
-D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\Transport\Transport\bin\Debug\Transport.exe.config
-D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\Transport\Transport\bin\Debug\Transport.exe
-D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\Transport\Transport\bin\Debug\Transport.pdb
-D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\Transport\Transport\obj\Debug\Transport.exe
-D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\Transport\Transport\obj\Debug\Transport.pdb

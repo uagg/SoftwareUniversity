@@ -1,6 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\7. Lists - processing variable-length sequences\Exercise3\REFACTORED\Winecraft\Winecraft\bin\Debug\Winecraft.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\7. Lists - processing variable-length sequences\Exercise3\REFACTORED\Winecraft\Winecraft\bin\Debug\Winecraft.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\7. Lists - processing variable-length sequences\Exercise3\REFACTORED\Winecraft\Winecraft\bin\Debug\Winecraft.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\7. Lists - processing variable-length sequences\Exercise3\REFACTORED\Winecraft\Winecraft\obj\Debug\Winecraft.csprojResolveAssemblyReference.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\7. Lists - processing variable-length sequences\Exercise3\REFACTORED\Winecraft\Winecraft\obj\Debug\Winecraft.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\7. Lists - processing variable-length sequences\Exercise3\REFACTORED\Winecraft\Winecraft\obj\Debug\Winecraft.pdb

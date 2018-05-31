@@ -1,6 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\9. Dictionaries\Exercise2\MixedPhones\MixedPhones\bin\Debug\MixedPhones.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\9. Dictionaries\Exercise2\MixedPhones\MixedPhones\bin\Debug\MixedPhones.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\9. Dictionaries\Exercise2\MixedPhones\MixedPhones\bin\Debug\MixedPhones.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\9. Dictionaries\Exercise2\MixedPhones\MixedPhones\obj\Debug\MixedPhones.csprojResolveAssemblyReference.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\9. Dictionaries\Exercise2\MixedPhones\MixedPhones\obj\Debug\MixedPhones.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\9. Dictionaries\Exercise2\MixedPhones\MixedPhones\obj\Debug\MixedPhones.pdb

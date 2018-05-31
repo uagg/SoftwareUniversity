@@ -1,6 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise1\LargestNElements\LargestNElements\bin\Debug\LargestNElements.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise1\LargestNElements\LargestNElements\bin\Debug\LargestNElements.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise1\LargestNElements\LargestNElements\bin\Debug\LargestNElements.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise1\LargestNElements\LargestNElements\obj\Debug\LargestNElements.csprojResolveAssemblyReference.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise1\LargestNElements\LargestNElements\obj\Debug\LargestNElements.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise1\LargestNElements\LargestNElements\obj\Debug\LargestNElements.pdb

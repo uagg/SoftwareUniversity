@@ -1,5 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise1\REFACTORED\SrtArrUsngInsertionSort\SrtArrUsngInsertionSort\bin\Debug\SrtArrUsngInsertionSort.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise1\REFACTORED\SrtArrUsngInsertionSort\SrtArrUsngInsertionSort\bin\Debug\SrtArrUsngInsertionSort.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise1\REFACTORED\SrtArrUsngInsertionSort\SrtArrUsngInsertionSort\bin\Debug\SrtArrUsngInsertionSort.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise1\REFACTORED\SrtArrUsngInsertionSort\SrtArrUsngInsertionSort\obj\Debug\SrtArrUsngInsertionSort.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise1\REFACTORED\SrtArrUsngInsertionSort\SrtArrUsngInsertionSort\obj\Debug\SrtArrUsngInsertionSort.pdb

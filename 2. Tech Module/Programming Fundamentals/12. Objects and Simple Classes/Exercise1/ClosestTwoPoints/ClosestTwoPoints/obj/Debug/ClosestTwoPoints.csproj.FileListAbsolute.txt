@@ -1,7 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\12. Objects and Simple Classes\Exercise1\ClosestTwoPoints\ClosestTwoPoints\bin\Debug\ClosestTwoPoints.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\12. Objects and Simple Classes\Exercise1\ClosestTwoPoints\ClosestTwoPoints\bin\Debug\ClosestTwoPoints.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\12. Objects and Simple Classes\Exercise1\ClosestTwoPoints\ClosestTwoPoints\bin\Debug\ClosestTwoPoints.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\12. Objects and Simple Classes\Exercise1\ClosestTwoPoints\ClosestTwoPoints\obj\Debug\ClosestTwoPoints.csprojResolveAssemblyReference.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\12. Objects and Simple Classes\Exercise1\ClosestTwoPoints\ClosestTwoPoints\obj\Debug\ClosestTwoPoints.csproj.CoreCompileInputs.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\12. Objects and Simple Classes\Exercise1\ClosestTwoPoints\ClosestTwoPoints\obj\Debug\ClosestTwoPoints.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\12. Objects and Simple Classes\Exercise1\ClosestTwoPoints\ClosestTwoPoints\obj\Debug\ClosestTwoPoints.pdb

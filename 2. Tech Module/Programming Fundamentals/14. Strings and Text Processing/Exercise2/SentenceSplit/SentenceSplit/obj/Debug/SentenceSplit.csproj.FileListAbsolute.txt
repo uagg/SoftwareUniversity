@@ -1,6 +1,0 @@
-D:\Work\SentenceSplit\SentenceSplit\bin\Debug\SentenceSplit.exe.config
-D:\Work\SentenceSplit\SentenceSplit\bin\Debug\SentenceSplit.exe
-D:\Work\SentenceSplit\SentenceSplit\bin\Debug\SentenceSplit.pdb
-D:\Work\SentenceSplit\SentenceSplit\obj\Debug\SentenceSplit.csproj.CoreCompileInputs.cache
-D:\Work\SentenceSplit\SentenceSplit\obj\Debug\SentenceSplit.exe
-D:\Work\SentenceSplit\SentenceSplit\obj\Debug\SentenceSplit.pdb

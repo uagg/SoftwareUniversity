@@ -1,6 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise2\Shellbound\Shellbound\bin\Debug\Shellbound.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise2\Shellbound\Shellbound\bin\Debug\Shellbound.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise2\Shellbound\Shellbound\bin\Debug\Shellbound.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise2\Shellbound\Shellbound\obj\Debug\Shellbound.csprojResolveAssemblyReference.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise2\Shellbound\Shellbound\obj\Debug\Shellbound.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise2\Shellbound\Shellbound\obj\Debug\Shellbound.pdb

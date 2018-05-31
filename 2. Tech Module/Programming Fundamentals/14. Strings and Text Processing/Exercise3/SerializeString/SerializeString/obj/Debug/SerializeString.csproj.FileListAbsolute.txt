@@ -1,6 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise3\SerializeString\SerializeString\bin\Debug\SerializeString.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise3\SerializeString\SerializeString\bin\Debug\SerializeString.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise3\SerializeString\SerializeString\bin\Debug\SerializeString.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise3\SerializeString\SerializeString\obj\Debug\SerializeString.csproj.CoreCompileInputs.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise3\SerializeString\SerializeString\obj\Debug\SerializeString.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise3\SerializeString\SerializeString\obj\Debug\SerializeString.pdb

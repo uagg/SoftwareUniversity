@@ -1,6 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\9. Dictionaries\Exercise1\CountRealNumbers\CountRealNumbers\bin\Debug\CountRealNumbers.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\9. Dictionaries\Exercise1\CountRealNumbers\CountRealNumbers\bin\Debug\CountRealNumbers.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\9. Dictionaries\Exercise1\CountRealNumbers\CountRealNumbers\bin\Debug\CountRealNumbers.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\9. Dictionaries\Exercise1\CountRealNumbers\CountRealNumbers\obj\Debug\CountRealNumbers.csprojResolveAssemblyReference.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\9. Dictionaries\Exercise1\CountRealNumbers\CountRealNumbers\obj\Debug\CountRealNumbers.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\9. Dictionaries\Exercise1\CountRealNumbers\CountRealNumbers\obj\Debug\CountRealNumbers.pdb

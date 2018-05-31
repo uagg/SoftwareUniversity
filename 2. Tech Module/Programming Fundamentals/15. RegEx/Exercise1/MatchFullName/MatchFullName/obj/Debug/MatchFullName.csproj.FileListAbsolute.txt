@@ -1,7 +1,0 @@
-D:\Други\Материали от SoftUni\Programming Fundamentals\15. RegEx\Exercise1\MatchFullName\MatchFullName\bin\Debug\MatchFullName.exe.config
-D:\Други\Материали от SoftUni\Programming Fundamentals\15. RegEx\Exercise1\MatchFullName\MatchFullName\bin\Debug\MatchFullName.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\15. RegEx\Exercise1\MatchFullName\MatchFullName\bin\Debug\MatchFullName.pdb
-D:\Други\Материали от SoftUni\Programming Fundamentals\15. RegEx\Exercise1\MatchFullName\MatchFullName\obj\Debug\MatchFullName.csprojResolveAssemblyReference.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\15. RegEx\Exercise1\MatchFullName\MatchFullName\obj\Debug\MatchFullName.csproj.CoreCompileInputs.cache
-D:\Други\Материали от SoftUni\Programming Fundamentals\15. RegEx\Exercise1\MatchFullName\MatchFullName\obj\Debug\MatchFullName.exe
-D:\Други\Материали от SoftUni\Programming Fundamentals\15. RegEx\Exercise1\MatchFullName\MatchFullName\obj\Debug\MatchFullName.pdb
