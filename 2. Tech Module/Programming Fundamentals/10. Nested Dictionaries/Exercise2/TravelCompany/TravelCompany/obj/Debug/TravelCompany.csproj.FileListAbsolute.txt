@@ -1,0 +1,6 @@
+D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise2\TravelCompany\TravelCompany\bin\Debug\TravelCompany.exe.config
+D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise2\TravelCompany\TravelCompany\bin\Debug\TravelCompany.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise2\TravelCompany\TravelCompany\bin\Debug\TravelCompany.pdb
+D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise2\TravelCompany\TravelCompany\obj\Debug\TravelCompany.csprojResolveAssemblyReference.cache
+D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise2\TravelCompany\TravelCompany\obj\Debug\TravelCompany.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise2\TravelCompany\TravelCompany\obj\Debug\TravelCompany.pdb

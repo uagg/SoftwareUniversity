@@ -1,0 +1,6 @@
+D:\Други\Материали от SoftUni\Programming Fundamentals\9. Dictionaries\Exercise2\ExamShopping\ExamShopping\bin\Debug\ExamShopping.exe.config
+D:\Други\Материали от SoftUni\Programming Fundamentals\9. Dictionaries\Exercise2\ExamShopping\ExamShopping\bin\Debug\ExamShopping.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\9. Dictionaries\Exercise2\ExamShopping\ExamShopping\bin\Debug\ExamShopping.pdb
+D:\Други\Материали от SoftUni\Programming Fundamentals\9. Dictionaries\Exercise2\ExamShopping\ExamShopping\obj\Debug\ExamShopping.csprojResolveAssemblyReference.cache
+D:\Други\Материали от SoftUni\Programming Fundamentals\9. Dictionaries\Exercise2\ExamShopping\ExamShopping\obj\Debug\ExamShopping.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\9. Dictionaries\Exercise2\ExamShopping\ExamShopping\obj\Debug\ExamShopping.pdb

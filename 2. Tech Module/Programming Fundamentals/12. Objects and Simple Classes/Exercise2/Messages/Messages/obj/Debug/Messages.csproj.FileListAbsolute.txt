@@ -1,0 +1,7 @@
+D:\Work\Exercise2\Messages\Messages\bin\Debug\Messages.exe.config
+D:\Work\Exercise2\Messages\Messages\bin\Debug\Messages.exe
+D:\Work\Exercise2\Messages\Messages\bin\Debug\Messages.pdb
+D:\Work\Exercise2\Messages\Messages\obj\Debug\Messages.csprojResolveAssemblyReference.cache
+D:\Work\Exercise2\Messages\Messages\obj\Debug\Messages.csproj.CoreCompileInputs.cache
+D:\Work\Exercise2\Messages\Messages\obj\Debug\Messages.exe
+D:\Work\Exercise2\Messages\Messages\obj\Debug\Messages.pdb

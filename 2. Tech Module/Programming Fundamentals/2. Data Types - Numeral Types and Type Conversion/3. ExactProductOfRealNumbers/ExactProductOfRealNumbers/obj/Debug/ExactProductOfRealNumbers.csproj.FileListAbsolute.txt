@@ -1,0 +1,5 @@
+D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\ExactProductOfRealNumbers\ExactProductOfRealNumbers\bin\Debug\ExactProductOfRealNumbers.exe.config
+D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\ExactProductOfRealNumbers\ExactProductOfRealNumbers\bin\Debug\ExactProductOfRealNumbers.exe
+D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\ExactProductOfRealNumbers\ExactProductOfRealNumbers\bin\Debug\ExactProductOfRealNumbers.pdb
+D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\ExactProductOfRealNumbers\ExactProductOfRealNumbers\obj\Debug\ExactProductOfRealNumbers.exe
+D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\ExactProductOfRealNumbers\ExactProductOfRealNumbers\obj\Debug\ExactProductOfRealNumbers.pdb

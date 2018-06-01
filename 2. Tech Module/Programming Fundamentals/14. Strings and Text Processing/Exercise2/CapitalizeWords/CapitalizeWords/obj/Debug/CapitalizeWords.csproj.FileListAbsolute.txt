@@ -1,0 +1,6 @@
+D:\Work\CapitalizeWords\CapitalizeWords\bin\Debug\CapitalizeWords.exe.config
+D:\Work\CapitalizeWords\CapitalizeWords\bin\Debug\CapitalizeWords.exe
+D:\Work\CapitalizeWords\CapitalizeWords\bin\Debug\CapitalizeWords.pdb
+D:\Work\CapitalizeWords\CapitalizeWords\obj\Debug\CapitalizeWords.csproj.CoreCompileInputs.cache
+D:\Work\CapitalizeWords\CapitalizeWords\obj\Debug\CapitalizeWords.exe
+D:\Work\CapitalizeWords\CapitalizeWords\obj\Debug\CapitalizeWords.pdb

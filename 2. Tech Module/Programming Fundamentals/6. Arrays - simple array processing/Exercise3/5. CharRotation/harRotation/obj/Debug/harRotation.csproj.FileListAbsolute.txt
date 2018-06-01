@@ -1,0 +1,5 @@
+D:\Други\Материали от SoftUni\Programming Fundamentals\6. Debugging and troubleshooting code\harRotation\harRotation\bin\Debug\harRotation.exe.config
+D:\Други\Материали от SoftUni\Programming Fundamentals\6. Debugging and troubleshooting code\harRotation\harRotation\bin\Debug\harRotation.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\6. Debugging and troubleshooting code\harRotation\harRotation\bin\Debug\harRotation.pdb
+D:\Други\Материали от SoftUni\Programming Fundamentals\6. Debugging and troubleshooting code\harRotation\harRotation\obj\Debug\harRotation.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\6. Debugging and troubleshooting code\harRotation\harRotation\obj\Debug\harRotation.pdb

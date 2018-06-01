@@ -1,0 +1,7 @@
+D:\Други\Материали от SoftUni\Programming Fundamentals\Exam Preparation II\CharityMarathon\CharityMarathon\bin\Debug\CharityMarathon.exe.config
+D:\Други\Материали от SoftUni\Programming Fundamentals\Exam Preparation II\CharityMarathon\CharityMarathon\bin\Debug\CharityMarathon.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\Exam Preparation II\CharityMarathon\CharityMarathon\bin\Debug\CharityMarathon.pdb
+D:\Други\Материали от SoftUni\Programming Fundamentals\Exam Preparation II\CharityMarathon\CharityMarathon\obj\Debug\CharityMarathon.csprojResolveAssemblyReference.cache
+D:\Други\Материали от SoftUni\Programming Fundamentals\Exam Preparation II\CharityMarathon\CharityMarathon\obj\Debug\CharityMarathon.csproj.CoreCompileInputs.cache
+D:\Други\Материали от SoftUni\Programming Fundamentals\Exam Preparation II\CharityMarathon\CharityMarathon\obj\Debug\CharityMarathon.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\Exam Preparation II\CharityMarathon\CharityMarathon\obj\Debug\CharityMarathon.pdb

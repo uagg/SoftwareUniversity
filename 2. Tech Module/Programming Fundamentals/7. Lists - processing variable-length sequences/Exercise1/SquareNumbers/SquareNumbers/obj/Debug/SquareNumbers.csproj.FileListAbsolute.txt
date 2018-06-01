@@ -1,0 +1,6 @@
+c:\users\uagg\documents\visual studio 2017\Projects\SquareNumbers\SquareNumbers\bin\Debug\SquareNumbers.exe.config
+c:\users\uagg\documents\visual studio 2017\Projects\SquareNumbers\SquareNumbers\bin\Debug\SquareNumbers.exe
+c:\users\uagg\documents\visual studio 2017\Projects\SquareNumbers\SquareNumbers\bin\Debug\SquareNumbers.pdb
+c:\users\uagg\documents\visual studio 2017\Projects\SquareNumbers\SquareNumbers\obj\Debug\SquareNumbers.csprojResolveAssemblyReference.cache
+c:\users\uagg\documents\visual studio 2017\Projects\SquareNumbers\SquareNumbers\obj\Debug\SquareNumbers.exe
+c:\users\uagg\documents\visual studio 2017\Projects\SquareNumbers\SquareNumbers\obj\Debug\SquareNumbers.pdb

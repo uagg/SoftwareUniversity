@@ -1,0 +1,7 @@
+D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise1\Palindromes\Palindromes\bin\Debug\Palindromes.exe.config
+D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise1\Palindromes\Palindromes\bin\Debug\Palindromes.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise1\Palindromes\Palindromes\bin\Debug\Palindromes.pdb
+D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise1\Palindromes\Palindromes\obj\Debug\Palindromes.csprojResolveAssemblyReference.cache
+D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise1\Palindromes\Palindromes\obj\Debug\Palindromes.csproj.CoreCompileInputs.cache
+D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise1\Palindromes\Palindromes\obj\Debug\Palindromes.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise1\Palindromes\Palindromes\obj\Debug\Palindromes.pdb

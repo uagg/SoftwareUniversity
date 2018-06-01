@@ -1,0 +1,5 @@
+D:\Други\Материали от SoftUni\Programming Fundamentals\8. Arrays - simple array processing\Exercise2\OddNumbersOddPositions\OddNumbersOddPositions\bin\Debug\OddNumbersOddPositions.exe.config
+D:\Други\Материали от SoftUni\Programming Fundamentals\8. Arrays - simple array processing\Exercise2\OddNumbersOddPositions\OddNumbersOddPositions\bin\Debug\OddNumbersOddPositions.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\8. Arrays - simple array processing\Exercise2\OddNumbersOddPositions\OddNumbersOddPositions\bin\Debug\OddNumbersOddPositions.pdb
+D:\Други\Материали от SoftUni\Programming Fundamentals\8. Arrays - simple array processing\Exercise2\OddNumbersOddPositions\OddNumbersOddPositions\obj\Debug\OddNumbersOddPositions.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\8. Arrays - simple array processing\Exercise2\OddNumbersOddPositions\OddNumbersOddPositions\obj\Debug\OddNumbersOddPositions.pdb

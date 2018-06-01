@@ -1,0 +1,6 @@
+D:\Други\Материали от SoftUni\Programming Fundamentals\5. Methods - Exercises\HelloName\HelloName\bin\Debug\HelloName.exe.config
+D:\Други\Материали от SoftUni\Programming Fundamentals\5. Methods - Exercises\HelloName\HelloName\bin\Debug\HelloName.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\5. Methods - Exercises\HelloName\HelloName\bin\Debug\HelloName.pdb
+D:\Други\Материали от SoftUni\Programming Fundamentals\5. Methods - Exercises\HelloName\HelloName\obj\Debug\HelloName.csprojResolveAssemblyReference.cache
+D:\Други\Материали от SoftUni\Programming Fundamentals\5. Methods - Exercises\HelloName\HelloName\obj\Debug\HelloName.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\5. Methods - Exercises\HelloName\HelloName\obj\Debug\HelloName.pdb

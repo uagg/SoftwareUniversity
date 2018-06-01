@@ -1,0 +1,6 @@
+D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\SpecialNumbers\SpecialNumbers\bin\Debug\SpecialNumbers.exe.config
+D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\SpecialNumbers\SpecialNumbers\bin\Debug\SpecialNumbers.exe
+D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\SpecialNumbers\SpecialNumbers\bin\Debug\SpecialNumbers.pdb
+D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\SpecialNumbers\SpecialNumbers\obj\Debug\SpecialNumbers.exe
+D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\SpecialNumbers\SpecialNumbers\obj\Debug\SpecialNumbers.pdb
+D:\Programming Fundamentals\Data Types - Numeral Types and Type Conversion\SpecialNumbers\SpecialNumbers\obj\Debug\SpecialNumbers.csprojResolveAssemblyReference.cache

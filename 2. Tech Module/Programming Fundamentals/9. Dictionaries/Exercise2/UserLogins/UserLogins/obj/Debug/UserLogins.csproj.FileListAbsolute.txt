@@ -1,0 +1,6 @@
+D:\Други\Материали от SoftUni\Programming Fundamentals\9. Dictionaries\Exercise2\UserLogins\UserLogins\bin\Debug\UserLogins.exe.config
+D:\Други\Материали от SoftUni\Programming Fundamentals\9. Dictionaries\Exercise2\UserLogins\UserLogins\bin\Debug\UserLogins.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\9. Dictionaries\Exercise2\UserLogins\UserLogins\bin\Debug\UserLogins.pdb
+D:\Други\Материали от SoftUni\Programming Fundamentals\9. Dictionaries\Exercise2\UserLogins\UserLogins\obj\Debug\UserLogins.csprojResolveAssemblyReference.cache
+D:\Други\Материали от SoftUni\Programming Fundamentals\9. Dictionaries\Exercise2\UserLogins\UserLogins\obj\Debug\UserLogins.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\9. Dictionaries\Exercise2\UserLogins\UserLogins\obj\Debug\UserLogins.pdb

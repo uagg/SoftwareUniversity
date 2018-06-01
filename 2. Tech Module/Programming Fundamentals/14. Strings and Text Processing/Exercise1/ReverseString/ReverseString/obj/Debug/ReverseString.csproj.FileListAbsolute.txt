@@ -1,0 +1,7 @@
+D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise1\ReverseString\ReverseString\bin\Debug\ReverseString.exe.config
+D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise1\ReverseString\ReverseString\bin\Debug\ReverseString.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise1\ReverseString\ReverseString\bin\Debug\ReverseString.pdb
+D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise1\ReverseString\ReverseString\obj\Debug\ReverseString.csprojResolveAssemblyReference.cache
+D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise1\ReverseString\ReverseString\obj\Debug\ReverseString.csproj.CoreCompileInputs.cache
+D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise1\ReverseString\ReverseString\obj\Debug\ReverseString.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\14. Strings and Text Processing\Exercise1\ReverseString\ReverseString\obj\Debug\ReverseString.pdb

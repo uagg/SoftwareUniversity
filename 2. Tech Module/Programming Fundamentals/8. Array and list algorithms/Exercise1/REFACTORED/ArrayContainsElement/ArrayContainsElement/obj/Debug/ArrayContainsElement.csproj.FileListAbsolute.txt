@@ -1,0 +1,6 @@
+D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise1\REFACTORED\ArrayContainsElement\ArrayContainsElement\bin\Debug\ArrayContainsElement.exe.config
+D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise1\REFACTORED\ArrayContainsElement\ArrayContainsElement\bin\Debug\ArrayContainsElement.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise1\REFACTORED\ArrayContainsElement\ArrayContainsElement\bin\Debug\ArrayContainsElement.pdb
+D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise1\REFACTORED\ArrayContainsElement\ArrayContainsElement\obj\Debug\ArrayContainsElement.csprojResolveAssemblyReference.cache
+D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise1\REFACTORED\ArrayContainsElement\ArrayContainsElement\obj\Debug\ArrayContainsElement.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\8. Array and list algorithms\Exercise1\REFACTORED\ArrayContainsElement\ArrayContainsElement\obj\Debug\ArrayContainsElement.pdb

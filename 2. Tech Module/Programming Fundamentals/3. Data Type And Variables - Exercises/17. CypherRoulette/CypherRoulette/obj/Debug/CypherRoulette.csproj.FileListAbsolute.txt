@@ -1,0 +1,6 @@
+D:\Други\Материали от SoftUni\Programming Fundamentals\3. Data Tyoe And Variables - Exercises\CypherRoulette\CypherRoulette\bin\Debug\CypherRoulette.exe.config
+D:\Други\Материали от SoftUni\Programming Fundamentals\3. Data Tyoe And Variables - Exercises\CypherRoulette\CypherRoulette\bin\Debug\CypherRoulette.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\3. Data Tyoe And Variables - Exercises\CypherRoulette\CypherRoulette\bin\Debug\CypherRoulette.pdb
+D:\Други\Материали от SoftUni\Programming Fundamentals\3. Data Tyoe And Variables - Exercises\CypherRoulette\CypherRoulette\obj\Debug\CypherRoulette.csprojResolveAssemblyReference.cache
+D:\Други\Материали от SoftUni\Programming Fundamentals\3. Data Tyoe And Variables - Exercises\CypherRoulette\CypherRoulette\obj\Debug\CypherRoulette.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\3. Data Tyoe And Variables - Exercises\CypherRoulette\CypherRoulette\obj\Debug\CypherRoulette.pdb

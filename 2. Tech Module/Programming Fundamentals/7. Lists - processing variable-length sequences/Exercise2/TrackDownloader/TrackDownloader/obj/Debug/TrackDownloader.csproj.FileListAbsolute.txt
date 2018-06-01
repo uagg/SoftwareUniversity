@@ -1,0 +1,6 @@
+D:\Други\Материали от SoftUni\Programming Fundamentals\7. Lists - processing variable-length sequences\Exercise2\TrackDownloader\TrackDownloader\bin\Debug\TrackDownloader.exe.config
+D:\Други\Материали от SoftUni\Programming Fundamentals\7. Lists - processing variable-length sequences\Exercise2\TrackDownloader\TrackDownloader\bin\Debug\TrackDownloader.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\7. Lists - processing variable-length sequences\Exercise2\TrackDownloader\TrackDownloader\bin\Debug\TrackDownloader.pdb
+D:\Други\Материали от SoftUni\Programming Fundamentals\7. Lists - processing variable-length sequences\Exercise2\TrackDownloader\TrackDownloader\obj\Debug\TrackDownloader.csprojResolveAssemblyReference.cache
+D:\Други\Материали от SoftUni\Programming Fundamentals\7. Lists - processing variable-length sequences\Exercise2\TrackDownloader\TrackDownloader\obj\Debug\TrackDownloader.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\7. Lists - processing variable-length sequences\Exercise2\TrackDownloader\TrackDownloader\obj\Debug\TrackDownloader.pdb

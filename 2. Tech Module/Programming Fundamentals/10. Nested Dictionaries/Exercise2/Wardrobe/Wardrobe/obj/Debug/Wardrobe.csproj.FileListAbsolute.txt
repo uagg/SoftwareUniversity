@@ -1,0 +1,6 @@
+D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise2\Wardrobe\Wardrobe\bin\Debug\Wardrobe.exe.config
+D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise2\Wardrobe\Wardrobe\bin\Debug\Wardrobe.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise2\Wardrobe\Wardrobe\bin\Debug\Wardrobe.pdb
+D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise2\Wardrobe\Wardrobe\obj\Debug\Wardrobe.csprojResolveAssemblyReference.cache
+D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise2\Wardrobe\Wardrobe\obj\Debug\Wardrobe.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\10. Nested Dictionaries\Exercise2\Wardrobe\Wardrobe\obj\Debug\Wardrobe.pdb

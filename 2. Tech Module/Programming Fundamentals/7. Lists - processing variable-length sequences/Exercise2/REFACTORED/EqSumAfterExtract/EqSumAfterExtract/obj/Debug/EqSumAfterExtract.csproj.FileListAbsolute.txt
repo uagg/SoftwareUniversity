@@ -1,0 +1,5 @@
+D:\Други\Материали от SoftUni\Programming Fundamentals\7. Lists - processing variable-length sequences\Exercise2\REFACTORED\EqSumAfterExtract\EqSumAfterExtract\bin\Debug\EqSumAfterExtract.exe.config
+D:\Други\Материали от SoftUni\Programming Fundamentals\7. Lists - processing variable-length sequences\Exercise2\REFACTORED\EqSumAfterExtract\EqSumAfterExtract\bin\Debug\EqSumAfterExtract.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\7. Lists - processing variable-length sequences\Exercise2\REFACTORED\EqSumAfterExtract\EqSumAfterExtract\bin\Debug\EqSumAfterExtract.pdb
+D:\Други\Материали от SoftUni\Programming Fundamentals\7. Lists - processing variable-length sequences\Exercise2\REFACTORED\EqSumAfterExtract\EqSumAfterExtract\obj\Debug\EqSumAfterExtract.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\7. Lists - processing variable-length sequences\Exercise2\REFACTORED\EqSumAfterExtract\EqSumAfterExtract\obj\Debug\EqSumAfterExtract.pdb

@@ -1,0 +1,7 @@
+D:\Други\Материали от SoftUni\Programming Fundamentals\Exam Preparation III\Files\Files\bin\Debug\Files.exe.config
+D:\Други\Материали от SoftUni\Programming Fundamentals\Exam Preparation III\Files\Files\bin\Debug\Files.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\Exam Preparation III\Files\Files\bin\Debug\Files.pdb
+D:\Други\Материали от SoftUni\Programming Fundamentals\Exam Preparation III\Files\Files\obj\Debug\Files.csprojResolveAssemblyReference.cache
+D:\Други\Материали от SoftUni\Programming Fundamentals\Exam Preparation III\Files\Files\obj\Debug\Files.csproj.CoreCompileInputs.cache
+D:\Други\Материали от SoftUni\Programming Fundamentals\Exam Preparation III\Files\Files\obj\Debug\Files.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\Exam Preparation III\Files\Files\obj\Debug\Files.pdb

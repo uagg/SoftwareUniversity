@@ -1,0 +1,5 @@
+D:\Други\Материали от SoftUni\Programming Fundamentals\5. Methods - Exercises\MinMethod\MinMethod\bin\Debug\MinMethod.exe.config
+D:\Други\Материали от SoftUni\Programming Fundamentals\5. Methods - Exercises\MinMethod\MinMethod\bin\Debug\MinMethod.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\5. Methods - Exercises\MinMethod\MinMethod\bin\Debug\MinMethod.pdb
+D:\Други\Материали от SoftUni\Programming Fundamentals\5. Methods - Exercises\MinMethod\MinMethod\obj\Debug\MinMethod.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\5. Methods - Exercises\MinMethod\MinMethod\obj\Debug\MinMethod.pdb

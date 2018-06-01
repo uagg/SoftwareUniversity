@@ -1,0 +1,6 @@
+D:\Други\Материали от SoftUni\Programming Fundamentals\6. Arrays - simple array processing\Exercise3\ResizableArray\ResizableArray\bin\Debug\ResizableArray.exe.config
+D:\Други\Материали от SoftUni\Programming Fundamentals\6. Arrays - simple array processing\Exercise3\ResizableArray\ResizableArray\bin\Debug\ResizableArray.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\6. Arrays - simple array processing\Exercise3\ResizableArray\ResizableArray\bin\Debug\ResizableArray.pdb
+D:\Други\Материали от SoftUni\Programming Fundamentals\6. Arrays - simple array processing\Exercise3\ResizableArray\ResizableArray\obj\Debug\ResizableArray.csprojResolveAssemblyReference.cache
+D:\Други\Материали от SoftUni\Programming Fundamentals\6. Arrays - simple array processing\Exercise3\ResizableArray\ResizableArray\obj\Debug\ResizableArray.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\6. Arrays - simple array processing\Exercise3\ResizableArray\ResizableArray\obj\Debug\ResizableArray.pdb

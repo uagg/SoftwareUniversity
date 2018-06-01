@@ -1,0 +1,6 @@
+D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\PracticeIntegerNumbers\PracticeIntegerNumbers\bin\Debug\PracticeIntegerNumbers.exe.config
+D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\PracticeIntegerNumbers\PracticeIntegerNumbers\bin\Debug\PracticeIntegerNumbers.exe
+D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\PracticeIntegerNumbers\PracticeIntegerNumbers\bin\Debug\PracticeIntegerNumbers.pdb
+D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\PracticeIntegerNumbers\PracticeIntegerNumbers\obj\Debug\PracticeIntegerNumbers.csprojResolveAssemblyReference.cache
+D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\PracticeIntegerNumbers\PracticeIntegerNumbers\obj\Debug\PracticeIntegerNumbers.exe
+D:\Programming Fundamentals\Data Tyoe And Variables - Exercises\PracticeIntegerNumbers\PracticeIntegerNumbers\obj\Debug\PracticeIntegerNumbers.pdb

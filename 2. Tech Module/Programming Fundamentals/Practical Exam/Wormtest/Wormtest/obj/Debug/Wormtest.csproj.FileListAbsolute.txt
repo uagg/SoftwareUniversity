@@ -1,0 +1,7 @@
+D:\Други\Материали от SoftUni\Programming Fundamentals\Practical Exam\Wormtest\Wormtest\bin\Debug\Wormtest.exe.config
+D:\Други\Материали от SoftUni\Programming Fundamentals\Practical Exam\Wormtest\Wormtest\bin\Debug\Wormtest.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\Practical Exam\Wormtest\Wormtest\bin\Debug\Wormtest.pdb
+D:\Други\Материали от SoftUni\Programming Fundamentals\Practical Exam\Wormtest\Wormtest\obj\Debug\Wormtest.csprojResolveAssemblyReference.cache
+D:\Други\Материали от SoftUni\Programming Fundamentals\Practical Exam\Wormtest\Wormtest\obj\Debug\Wormtest.csproj.CoreCompileInputs.cache
+D:\Други\Материали от SoftUni\Programming Fundamentals\Practical Exam\Wormtest\Wormtest\obj\Debug\Wormtest.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\Practical Exam\Wormtest\Wormtest\obj\Debug\Wormtest.pdb

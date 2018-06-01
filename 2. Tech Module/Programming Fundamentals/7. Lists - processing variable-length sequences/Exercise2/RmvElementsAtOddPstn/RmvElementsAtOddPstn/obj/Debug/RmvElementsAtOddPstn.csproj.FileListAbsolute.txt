@@ -1,0 +1,5 @@
+D:\Други\Материали от SoftUni\Programming Fundamentals\7. Lists - processing variable-length sequences\Exercise2\RmvElementsAtOddPstn\RmvElementsAtOddPstn\bin\Debug\RmvElementsAtOddPstn.exe.config
+D:\Други\Материали от SoftUni\Programming Fundamentals\7. Lists - processing variable-length sequences\Exercise2\RmvElementsAtOddPstn\RmvElementsAtOddPstn\bin\Debug\RmvElementsAtOddPstn.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\7. Lists - processing variable-length sequences\Exercise2\RmvElementsAtOddPstn\RmvElementsAtOddPstn\bin\Debug\RmvElementsAtOddPstn.pdb
+D:\Други\Материали от SoftUni\Programming Fundamentals\7. Lists - processing variable-length sequences\Exercise2\RmvElementsAtOddPstn\RmvElementsAtOddPstn\obj\Debug\RmvElementsAtOddPstn.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\7. Lists - processing variable-length sequences\Exercise2\RmvElementsAtOddPstn\RmvElementsAtOddPstn\obj\Debug\RmvElementsAtOddPstn.pdb

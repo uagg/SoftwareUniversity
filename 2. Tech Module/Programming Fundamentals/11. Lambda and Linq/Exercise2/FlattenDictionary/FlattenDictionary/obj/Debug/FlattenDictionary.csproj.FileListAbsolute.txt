@@ -1,0 +1,7 @@
+D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise2\FlattenDictionary\FlattenDictionary\bin\Debug\FlattenDictionary.exe.config
+D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise2\FlattenDictionary\FlattenDictionary\bin\Debug\FlattenDictionary.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise2\FlattenDictionary\FlattenDictionary\bin\Debug\FlattenDictionary.pdb
+D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise2\FlattenDictionary\FlattenDictionary\obj\Debug\FlattenDictionary.csprojResolveAssemblyReference.cache
+D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise2\FlattenDictionary\FlattenDictionary\obj\Debug\FlattenDictionary.csproj.CoreCompileInputs.cache
+D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise2\FlattenDictionary\FlattenDictionary\obj\Debug\FlattenDictionary.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\11. Lambda and Linq\Exercise2\FlattenDictionary\FlattenDictionary\obj\Debug\FlattenDictionary.pdb

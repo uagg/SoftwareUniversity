@@ -1,0 +1,5 @@
+D:\Други\Материали от SoftUni\Programming Fundamentals\6. Debugging and troubleshooting code\Phonebook\Phonebook\bin\Debug\Phonebook.exe.config
+D:\Други\Материали от SoftUni\Programming Fundamentals\6. Debugging and troubleshooting code\Phonebook\Phonebook\bin\Debug\Phonebook.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\6. Debugging and troubleshooting code\Phonebook\Phonebook\bin\Debug\Phonebook.pdb
+D:\Други\Материали от SoftUni\Programming Fundamentals\6. Debugging and troubleshooting code\Phonebook\Phonebook\obj\Debug\Phonebook.exe
+D:\Други\Материали от SoftUni\Programming Fundamentals\6. Debugging and troubleshooting code\Phonebook\Phonebook\obj\Debug\Phonebook.pdb
