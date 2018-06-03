@@ -1,0 +1,149 @@
+1--------------------------
+SELECT `e`.`employee_id`,`e`.`job_title`,`a`.`address_id`,`a`.`address_text`
+FROM `soft_uni`.`employees` AS `e`
+LEFT JOIN `soft_uni`.`addresses` AS `a`
+ON `e`.`address_id`=`a`.`address_id`
+ORDER BY `e`.`address_id`;
+
+2--------------------------
+SELECT `e`.`first_name`,`e`.`last_name`,`t`.`name` as 'town',`a`.`address_text`
+FROM `soft_uni`.`employees` AS `e`
+LEFT JOIN `soft_uni`.`addresses` AS `a`
+ON `e`.`address_id`=`a`.`address_id`
+LEFT JOIN `soft_uni`.`towns` AS `t`
+ON `a`.`town_id`=`t`.`town_id`
+ORDER BY `e`.`first_name`,`e`.`last_name`;
+
+3--------------------------
+SELECT `e`.`employee_id`,`e`.`first_name`,`e`.`last_name`,`d`.`name`
+FROM `soft_uni`.`employees` AS `e`
+LEFT JOIN `soft_uni`.`departments` AS `d`
+ON `e`.`department_id`=`d`.`department_id`
+WHERE `d`.`name` = 'Sales'
+ORDER BY `e`.`employee_id` DESC;
+
+4--------------------------
+SELECT `e`.`employee_id`,`e`.`first_name`,`e`.`salary`,`d`.`name` AS 'department_name'
+FROM `soft_uni`.`employees` AS `e`
+LEFT JOIN `soft_uni`.`departments` AS `d`
+ON `e`.`department_id`=`d`.`department_id`
+WHERE `e`.salary > 15000
+ORDER BY `d`.`department_id` DESC
+LIMIT 5;
+
+5--------------------------
+SELECT `e`.`employee_id`,`e`.`first_name`,`ep`.`project_id`
+FROM `soft_uni`.`employees` AS `e`
+LEFT JOIN `soft_uni`.`employees_projects` AS `ep`
+ON `e`.`employee_id`=`ep`.`employee_id`
+WHERE `ep`.`project_id` IS NULL
+ORDER BY `e`.`employee_id` DESC;
+
+6--------------------------
+SELECT `e`.`first_name`,`e`.`last_name`,`e`.`hire_date`,`d`.`name` AS 'dept_name'
+FROM `soft_uni`.`employees` AS `e`
+LEFT JOIN `soft_uni`.`departments` AS `d`
+ON `e`.`department_id`=`d`.`department_id`
+WHERE `e`.`hire_date` > '1999-1-1' AND `d`.`name` IN ('Finance','Sales')
+ORDER BY `e`.`hire_date` ASC;
+
+7--------------------------
+SELECT `e`.`employee_id`,`e`.`first_name`,`p`.`name`
+FROM `soft_uni`.`employees` AS `e`
+LEFT JOIN `soft_uni`.`employees_projects` AS `ep`
+ON `e`.`employee_id`=`ep`.`employee_id`
+LEFT JOIN `soft_uni`.`projects` AS `p`
+ON `ep`.`project_id`=`p`.`project_id`
+WHERE `p`.`start_date` > '2002-08-13' AND `p`.`end_date` IS NULL
+ORDER BY `e`.`first_name` ASC, `p`.`name` ASC
+LIMIT 5;
+
+8--------------------------
+SELECT `e`.`employee_id`,`e`.`first_name`,IF(`p`.`start_date` > '2005-01-01', NULL, `p`.`name`) AS 'project name',`p`.`start_date`
+FROM `soft_uni`.`employees` AS `e`
+LEFT JOIN `soft_uni`.`employees_projects` AS `ep`
+ON `e`.`employee_id`=`ep`.`employee_id`
+LEFT JOIN `soft_uni`.`projects` AS `p`
+ON `ep`.`project_id`=`p`.`project_id`
+WHERE `e`.`employee_id`=24
+ORDER BY `p`.`name`;
+
+9--------------------------
+SELECT `e`.`employee_id`,`e`.`first_name`,`e`.`manager_id`,`ee`.`first_name`
+FROM `soft_uni`.`employees` AS `e`
+LEFT JOIN `soft_uni`.`employees` AS `ee`
+ON `e`.`manager_id`=`ee`.`employee_id`
+WHERE `e`.`manager_id` in (3,7)
+ORDER BY `e`.`first_name`;
+
+10-------------------------
+SELECT `e`.`employee_id`,CONCAT(`e`.`first_name`,' ',`e`.`last_name`) AS 'employee_name',
+CONCAT(`ee`.`first_name`,' ',`ee`.`last_name`) AS 'manager_name', `d`.`name`
+FROM `soft_uni`.`employees` AS `e`
+LEFT JOIN `soft_uni`.`employees` AS `ee`
+ON `e`.`manager_id`=`ee`.`employee_id`
+LEFT JOIN `soft_uni`.`departments` AS `d`
+ON `e`.`department_id`=`d`.`department_id`;
+
+11-------------------------
+SELECT MIN(`sub`.`average_salaries`) AS 'MinSalary'
+FROM(SELECT AVG(`e`.`salary`) AS `average_salaries`,`d`.`name` AS `name`
+FROM `soft_uni`.`employees` AS `e` 
+LEFT JOIN `soft_uni`.`departments` AS `d`
+ON `e`.`department_id`=`d`.`department_id`
+GROUP BY `e`.`department_id`
+) AS `sub`;
+
+12-------------------------
+SELECT `c`.`country_code`,`m`.`mountain_range`,`p`.`peak_name`,`p`.`elevation`
+FROM `geography`.`countries` AS `c`
+LEFT JOIN `geography`.`mountains_countries` AS `mc`
+ON `c`.`country_code`=`mc`.`country_code`
+LEFT JOIN `geography`.`mountains` AS `m`
+ON `mc`.`mountain_id`=`m`.`id`
+LEFT JOIN `geography`.`peaks` AS `p`
+ON `m`.`id`=`p`.`mountain_id`
+WHERE `c`.`country_code`='BG' AND `p`.`elevation`>2835
+ORDER BY `p`.`elevation` DESC;
+
+13-------------------------                                     ------------------------>>>>>>> MINIMIZE CODE!!!
+SELECT `are`.`cc`,COUNT(`are`.`mr`)
+FROM(SELECT `c`.`country_code` AS `cc`,`m`.`mountain_range` AS `mr`
+	  FROM `geography`.`countries` AS `c`
+	  LEFT JOIN `geography`.`mountains_countries` AS `mc`
+	  ON `c`.`country_code`=`mc`.`country_code`
+	  LEFT JOIN `geography`.`mountains` AS `m`
+	  ON `mc`.`mountain_id`=`m`.`id`
+	  WHERE `c`.`country_code` in ('BG','US','RU'))
+AS `are`
+GROUP BY `are`.`cc`;
+
+14-------------------------
+SELECT `c`.`country_name`,`r`.`river_name`
+FROM `geography`.`countries` AS `c`
+LEFT JOIN `geography`.`countries_rivers` AS `cr`
+ON `c`.`country_code`=`cr`.`country_code`
+LEFT JOIN `geography`.`rivers` AS `r`
+ON `cr`.`river_id`=`r`.`id`
+WHERE `c`.`continent_code`='AF'
+ORDER BY `c`.`country_name` ASC;
+
+16-------------------------
+SELECT COUNT(`x`.`country`) FROM(SELECT `c`.`country_name` AS 'country', `mc`.`mountain_id` AS 'mountain'
+FROM `geography`.`countries` AS `c`
+LEFT JOIN `geography`.`mountains_countries` AS `mc`
+ON `c`.`country_code`=`mc`.`country_code`) AS `x`
+WHERE `x`.`mountain` IS NULL;
+
+17-------------------------                                         ------------------------>>>>>>>RECHECK
+SELECT `c`.`country_name` AS 'country_name', `p`.`elevation` AS 'elevation', `r`.`length` AS 'rivers'
+FROM `geography`.`countries` AS `c`
+LEFT JOIN `geography`.`mountains_countries` AS `mc`
+ON `c`.`country_code`=`mc`.`country_code`
+LEFT JOIN `geography`.`peaks` AS `p`
+ON `mc`.`mountain_id`=`p`.`mountain_id`
+LEFT JOIN `geography`.`countries_rivers` AS `cr`
+ON `c`.`country_code`=`cr`.`country_code`
+LEFT JOIN `geography`.`rivers` AS `r`
+ON `cr`.`river_id`=`r`.`id`
+ORDER BY `elevation` DESC, `rivers` DESC, `country_name` ASC;
